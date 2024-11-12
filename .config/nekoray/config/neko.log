@@ -1,0 +1,12 @@
+2024/11/01 16:54:15 nekoray_core grpc server listening at 127.0.0.1:45031
+2024/11/01 16:55:06 [Warning] core: Xray 1.8.4 started
+2024/11/01 16:55:18 127.0.0.1:35874 accepted //rr1---sn-xupn5a5ua3-jhcz.googlevideo.com:443 [http-in -> proxy]
+2024/11/01 16:55:22 127.0.0.1:35888 accepted //rr3---sn-npoeenez.googlevideo.com:443 [http-in -> proxy]
+2024/11/01 16:55:23 127.0.0.1:35900 accepted http://o.pki.goog/wr2 [http-in -> proxy]
+2024/11/01 16:55:23 127.0.0.1:35910 accepted //music.youtube.com:443 [http-in -> proxy]
+2024/11/01 16:55:23 127.0.0.1:35924 accepted //music.youtube.com:443 [http-in -> proxy]
+2024/11/01 16:55:23 127.0.0.1:35930 accepted //music.youtube.com:443 [http-in -> proxy]
+2024/11/01 17:25:24 [Warning] core: Xray 1.8.4 started
+2024/11/01 17:25:26 127.0.0.1:48228 accepted http://detectportal.firefox.com/canonical.html [http-in -> proxy]
+2024/11/01 17:25:29 [Warning] [4095177991] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (ws://pnczeus.dumiya.online:58514/): 302 Found > websocket: bad handshake] > common/retry: all retry attempts failed
+2024/11/01 17:25:29 [Warning] [4095177991] proxy/http: failed to read response from detectportal.firefox.com > io: read/write on closed pipe

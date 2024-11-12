@@ -1,0 +1,33 @@
+Error while parsing hooks JSON. Error: ENOENT: no such file or directory, open '/home/zeus/.config/Microsoft/Microsoft Teams/hooks.json'
+(node:11875) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:11875) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:11875) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+(node:11875) UnhandledPromiseRejectionWarning: Error: The name is not activatable
+(node:11875) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:11875) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+(node:11875) UnhandledPromiseRejectionWarning: Error: The name is not activatable
+(node:11875) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 3)

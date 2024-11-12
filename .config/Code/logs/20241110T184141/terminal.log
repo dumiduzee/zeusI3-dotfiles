@@ -1,0 +1,40 @@
+2024-11-10 18:41:47.384 [info] Latency measurements for local backend
+window<->ptyhost (message port): 1.60ms
+window<->ptyhostservice<->ptyhost: 12.00ms
+ptyhostservice<->ptyhost: 5.41ms []
+2024-11-10 18:59:43.307 [info] Latency measurements for local backend
+window<->ptyhost (message port): 1.30ms
+window<->ptyhostservice<->ptyhost: 3.20ms
+ptyhostservice<->ptyhost: 1.05ms []
+2024-11-10 19:05:07.043 [info] Latency measurements for local backend
+window<->ptyhost (message port): 1.40ms
+window<->ptyhostservice<->ptyhost: 4.10ms
+ptyhostservice<->ptyhost: 2.35ms []
+2024-11-10 19:11:43.105 [error] Exception occurred during xterm disposal [{}]
+2024-11-10 19:11:43.941 [error] Exception occurred during xterm disposal [{}]
+2024-11-10 19:22:41.988 [info] Latency measurements for local backend
+window<->ptyhost (message port): 4.80ms
+window<->ptyhostservice<->ptyhost: 6.00ms
+ptyhostservice<->ptyhost: 1.12ms []
+2024-11-10 21:33:19.461 [info] Latency measurements for local backend
+window<->ptyhost (message port): 9.80ms
+window<->ptyhostservice<->ptyhost: 1.70ms
+ptyhostservice<->ptyhost: 0.65ms []
+2024-11-10 22:06:46.075 [info] Latency measurements for local backend
+window<->ptyhost (message port): 2.60ms
+window<->ptyhostservice<->ptyhost: 3.50ms
+ptyhostservice<->ptyhost: 1.49ms []
+2024-11-10 22:30:04.606 [info] Latency measurements for local backend
+window<->ptyhost (message port): 4.10ms
+window<->ptyhostservice<->ptyhost: 3.00ms
+ptyhostservice<->ptyhost: 0.96ms []
+2024-11-10 22:35:49.734 [info] Latency measurements for local backend
+window<->ptyhost (message port): 1.40ms
+window<->ptyhostservice<->ptyhost: 2.70ms
+ptyhostservice<->ptyhost: 1.09ms []
+2024-11-10 23:13:22.520 [error] Exception occurred during xterm disposal [{}]
+2024-11-10 23:13:22.529 [error] Exception occurred during xterm disposal [{}]
+2024-11-10 23:13:22.537 [error] Exception occurred during xterm disposal [{}]
+2024-11-10 23:13:22.547 [error] Exception occurred during xterm disposal [{}]
+2024-11-10 23:13:22.554 [error] Exception occurred during xterm disposal [{}]
+2024-11-10 23:13:22.561 [error] Exception occurred during xterm disposal [{}]

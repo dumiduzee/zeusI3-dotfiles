@@ -1,0 +1,25 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "pnczeus.dumiya.online",
+        "name": "HUTCH-h2iwfhec",
+        "pass": "453b1f3c-7dc9-4b58-9206-283e6d77c4a4",
+        "port": 58514,
+        "stream": {
+            "ed_len": 0,
+            "host": "store.steampowered.com",
+            "insecure": false,
+            "mux_s": 0,
+            "net": "ws",
+            "path": "/"
+        }
+    },
+    "gid": 0,
+    "id": 0,
+    "traffic": {
+        "dl": 70520,
+        "ul": 23690
+    },
+    "type": "vless",
+    "yc": 0
+}

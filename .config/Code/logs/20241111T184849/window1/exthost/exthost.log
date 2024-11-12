@@ -1,0 +1,21 @@
+2024-11-11 18:48:53.638 [info] Extension host with pid 26279 started
+2024-11-11 18:48:53.638 [info] Skipping acquiring lock for /home/zeus/.config/Code/User/workspaceStorage/fb4d7249961292970917ffa9eb8aa31f.
+2024-11-11 18:48:54.249 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-11-11 18:48:54.431 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-11 18:48:54.477 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascriptreact'
+2024-11-11 18:48:55.584 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-11 18:48:55.592 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-11-11 18:48:55.861 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-11 18:48:56.029 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-11 18:48:56.769 [info] Eager extensions activated
+2024-11-11 18:48:57.398 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-11 18:48:57.413 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-11 18:48:57.507 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-11-11 18:48:59.363 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-11-11 18:48:59.393 [info] ExtensionService#_doActivateExtension shenjiaolong.vue-helper, startup: false, activationEvent: 'onStartupFinished'
+2024-11-11 18:48:59.700 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-11-11 18:49:01.190 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-11 18:49:01.247 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-11 18:49:01.301 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-11-11 19:23:24.315 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-11 19:23:24.470 [info] Extension host with pid 26279 exiting with code 0

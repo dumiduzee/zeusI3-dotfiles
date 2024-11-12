@@ -1,0 +1,50 @@
+2024-11-11 21:28:12.783 [info] [main] Log level: Info
+2024-11-11 21:28:12.783 [info] [main] Validating found git in: "git"
+2024-11-11 21:28:12.783 [info] [main] Using git "2.47.0" from "git"
+2024-11-11 21:28:12.783 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-11 21:28:12.783 [info] > git rev-parse --show-toplevel [24ms]
+2024-11-11 21:28:12.783 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-11 21:28:12.790 [info] > git rev-parse --show-toplevel [2600ms]
+2024-11-11 21:28:12.790 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-11 21:28:13.220 [info] > git rev-parse --show-toplevel [124ms]
+2024-11-11 21:28:13.220 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-11 21:28:13.359 [info] > git rev-parse --show-toplevel [22ms]
+2024-11-11 21:28:13.359 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-11 21:28:13.403 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-11 21:28:13.403 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-11 21:28:13.411 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (1)
+2024-11-11 21:28:13.485 [info] > git rev-parse --show-toplevel [57ms]
+2024-11-11 21:28:13.485 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-11 21:28:13.554 [info] > git rev-parse --show-toplevel [51ms]
+2024-11-11 21:28:13.554 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-11 21:28:13.602 [info] > git rev-parse --show-toplevel [19ms]
+2024-11-11 21:28:13.602 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-11 21:28:13.678 [info] > git rev-parse --show-toplevel [52ms]
+2024-11-11 21:28:13.678 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project

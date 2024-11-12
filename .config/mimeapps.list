@@ -1,0 +1,7 @@
+[Default Applications]
+x-scheme-handler/tonsite=org.telegram.desktop.desktop
+x-scheme-handler/postman=Postman.desktop
+x-scheme-handler/msteams=teams.desktop
+
+[Added Associations]
+x-scheme-handler/tonsite=org.telegram.desktop.desktop;

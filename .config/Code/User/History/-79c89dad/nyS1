@@ -1,0 +1,16 @@
+# Set index.php as the default file
+DirectoryIndex index.php
+
+# Rewrite URLs to remove .php extensions (optional)
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L]
+
+# Prevent direct access to config and src directories
+RewriteRule ^config/ - [F,L]
+RewriteRule ^src/ - [F,L]
+
+# Basic XSS protection
+Header set X-XSS-Protection "1; mode=block"
+Header set Content-Security-Policy "default-src 'self';"

@@ -1,0 +1,81 @@
+2024-11-10 17:14:38.653 [info] Extension host with pid 5685 started
+2024-11-10 17:14:38.653 [info] Skipping acquiring lock for /home/zeus/.config/Code/User/workspaceStorage/67cc42989a64e24e59a28096d6f3155f.
+2024-11-10 17:14:39.047 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-10 17:14:39.115 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-10 17:14:39.321 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-10 17:14:39.572 [info] Eager extensions activated
+2024-11-10 17:14:39.743 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-10 17:14:39.747 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-10 17:14:39.793 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-11-10 17:14:39.804 [info] ExtensionService#_doActivateExtension shenjiaolong.vue-helper, startup: false, activationEvent: 'onStartupFinished'
+2024-11-10 17:14:40.016 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-11-10 17:14:47.612 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-10 17:14:47.633 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-10 17:14:47.743 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-10 17:14:47.802 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-10 17:23:50.362 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-10 17:23:50.381 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-11-10 17:38:57.983 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-11-10 17:39:24.228 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onLanguage:javascript'
+2024-11-10 18:22:50.311 [error] Error: <semantic> TypeScript Server Error (5.6.3)
+Debug Failure.
+Error: Debug Failure.
+    at stopWatchFailedLookupLocationOfResolution (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:130844:11)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:130890:25
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:43862:16
+    at Map.forEach (<anonymous>)
+    at Object.forEach (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:43860:25)
+    at removeResolutionsOfFileFromCache (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:130889:19)
+    at Object.removeResolutionsOfFile (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:130908:5)
+    at InferredProject2.removeFile (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:184059:28)
+    at _ProjectService.closeOpenFile (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:186865:11)
+    at _ProjectService.closeClientFile (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:188721:32)
+    at _ProjectService.applyChangesInOpenFiles (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:188772:57)
+    at updateOpen (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:189983:29)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:192651:15
+    at IpcIOSession.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:192640:14)
+    at IpcIOSession.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:192649:29)
+    at IpcIOSession.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:192697:68)
+    at process.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:525:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+	at n.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:487228)
+	at y.dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:481198)
+	at y.dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:479996)
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:479489)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:951:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-10 18:22:50.319 [error] Error: <semantic> TypeScript Server Error (5.6.3)
+Debug Failure.
+Error: Debug Failure.
+    at stopWatchFailedLookupLocationOfResolution (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:130844:11)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:130890:25
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:43862:16
+    at Map.forEach (<anonymous>)
+    at Object.forEach (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:43860:25)
+    at removeResolutionsOfFileFromCache (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:130889:19)
+    at Object.removeResolutionsOfFile (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:130908:5)
+    at InferredProject2.removeFile (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:184059:28)
+    at _ProjectService.closeOpenFile (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:186865:11)
+    at _ProjectService.closeClientFile (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:188721:32)
+    at _ProjectService.applyChangesInOpenFiles (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:188772:57)
+    at updateOpen (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:189983:29)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:192651:15
+    at IpcIOSession.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:192640:14)
+    at IpcIOSession.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:192649:29)
+    at IpcIOSession.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/typescript.js:192697:68)
+    at process.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:525:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+	at n.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:487228)
+	at y.dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:481198)
+	at y.dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:479996)
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:479489)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:951:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-10 18:38:48.912 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-10 18:38:49.006 [info] Extension host with pid 5685 exiting with code 0

@@ -1,0 +1,6 @@
+2024-11-11 19:32:50.096 [info] Started local extension host with pid 3431.
+2024-11-11 19:32:56.209 [error] [hollowtree.vue-snippets]: Unknown language in `contributes.vue-snippets.language`. Provided value: vue-html
+2024-11-11 19:32:56.213 [error] [sdras.vue-vscode-snippets]: Unknown language in `contributes.vue-vscode-snippets.language`. Provided value: vue-html
+2024-11-11 19:33:02.179 [info] Extension host (LocalProcess pid: 3431) is unresponsive.
+2024-11-11 19:33:02.230 [info] Extension host (LocalProcess pid: 3431) is responsive.
+2024-11-11 19:33:03.494 [info] [perf] Render performance baseline is 142ms

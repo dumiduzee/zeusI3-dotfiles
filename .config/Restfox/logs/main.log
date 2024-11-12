@@ -1,0 +1,2308 @@
+[2024-11-03 02:30:18.429] [info]  state x or y is undefined
+[2024-11-03 02:30:18.435] [info]  scale: 1
+[2024-11-03 02:30:19.222] [info]  ipcMain: updateElectronApp
+[2024-11-03 02:30:19.227] [info]  Electron's autoUpdater does not support the 'linux' platform
+[2024-11-03 02:31:25.511] [info]  getWorkspaceAtLocation
+[2024-11-03 02:31:25.513] [error] Error: ENOENT: no such file or directory, open '/home/zeus/resst fox workspace/restfox.json'
+[2024-11-03 02:31:25.514] [error] Error executing task Error: Error getting workspace at location: /home/zeus/resst fox workspace
+    at Object.getWorkspaceAtLocation (/usr/lib/restfox/app/src/db.js:56:15)
+    at async TaskQueue.runNext (/usr/lib/restfox/app/src/task-queue.js:14:28)
+[2024-11-03 02:31:25.515] [info]  getWorkspaceAtLocation
+[2024-11-03 02:31:25.515] [error] Error occurred in handler for 'getWorkspaceAtLocation': Error: Error getting workspace at location: /home/zeus/resst fox workspace
+    at Object.getWorkspaceAtLocation (/usr/lib/restfox/app/src/db.js:56:15)
+    at async TaskQueue.runNext (/usr/lib/restfox/app/src/task-queue.js:14:28)
+[2024-11-03 02:31:25.516] [error] Error: ENOENT: no such file or directory, open '/home/zeus/resst fox workspace/restfox.json'
+[2024-11-03 02:31:25.516] [error] Error executing task Error: Error getting workspace at location: /home/zeus/resst fox workspace
+    at Object.getWorkspaceAtLocation (/usr/lib/restfox/app/src/db.js:56:15)
+    at async TaskQueue.runNext (/usr/lib/restfox/app/src/task-queue.js:14:28)
+[2024-11-03 02:31:25.517] [error] Error occurred in handler for 'getWorkspaceAtLocation': Error: Error getting workspace at location: /home/zeus/resst fox workspace
+    at Object.getWorkspaceAtLocation (/usr/lib/restfox/app/src/db.js:56:15)
+    at async TaskQueue.runNext (/usr/lib/restfox/app/src/task-queue.js:14:28)
+[2024-11-03 02:31:29.508] [info]  getCollectionForWorkspace
+[2024-11-03 02:31:29.513] [info]  getWorkspaceAtLocation
+[2024-11-03 02:31:29.551] [info]  getWorkspacePlugins
+[2024-11-03 02:31:29.552] [info]  getCollectionForWorkspace
+[2024-11-03 02:31:29.552] [info]  getWorkspaceAtLocation
+[2024-11-03 02:31:29.608] [info]  change /home/zeus/resst fox workspace/restfox.json
+[2024-11-03 02:31:38.858] [info]  createCollection
+[2024-11-03 02:31:38.866] [info]  Created file: /home/zeus/resst fox workspace/get.json
+[2024-11-03 02:31:38.957] [info]  add /home/zeus/resst fox workspace/get.json
+[2024-11-03 02:31:38.975] [info]  updateCollection
+[2024-11-03 02:31:38.978] [info]  Updated sortOrder for /home/zeus/resst fox workspace/get.json
+[2024-11-03 02:31:38.979] [info]  getResponsesByCollectionId
+[2024-11-03 02:31:38.980] [info]  updateWorkspace
+[2024-11-03 02:31:38.981] [info]  No fields to update for workspace
+[2024-11-03 02:31:39.064] [info]  change /home/zeus/resst fox workspace/get.json
+[2024-11-03 02:31:50.086] [info]  updateCollection
+[2024-11-03 02:31:50.089] [info]  Updated file: /home/zeus/resst fox workspace/get.json
+[2024-11-03 02:31:50.173] [info]  change /home/zeus/resst fox workspace/get.json
+[2024-11-03 02:31:51.342] [info]  { disableSSLVerification: false }
+[2024-11-03 02:31:51.438] [info]  createResponse
+[2024-11-03 02:31:51.525] [info]  add /home/zeus/resst fox workspace/get.responses.json
+[2024-11-03 02:32:01.304] [info]  { disableSSLVerification: false }
+[2024-11-03 02:32:01.330] [info]  createResponse
+[2024-11-03 02:32:01.422] [info]  change /home/zeus/resst fox workspace/get.responses.json
+[2024-11-03 02:32:10.212] [info]  createCollection
+[2024-11-03 02:32:10.213] [info]  Created file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:10.274] [info]  updateCollection
+[2024-11-03 02:32:10.276] [info]  Updated sortOrder for /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:10.276] [info]  updateCollection
+[2024-11-03 02:32:10.279] [info]  Updated sortOrder for /home/zeus/resst fox workspace/get.json
+[2024-11-03 02:32:10.279] [info]  getResponsesByCollectionId
+[2024-11-03 02:32:10.280] [info]  updateWorkspace
+[2024-11-03 02:32:10.283] [info]  No fields to update for workspace
+[2024-11-03 02:32:10.361] [info]  add /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:10.363] [info]  change /home/zeus/resst fox workspace/get.json
+[2024-11-03 02:32:13.112] [info]  updateCollection
+[2024-11-03 02:32:13.116] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:13.197] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:14.735] [info]  updateCollection
+[2024-11-03 02:32:14.739] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:14.823] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:14.981] [info]  updateCollection
+[2024-11-03 02:32:14.986] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:15.071] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:15.084] [info]  updateCollection
+[2024-11-03 02:32:15.087] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:15.172] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:15.274] [info]  updateCollection
+[2024-11-03 02:32:15.278] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:15.363] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:15.405] [info]  updateCollection
+[2024-11-03 02:32:15.412] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:15.497] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:16.472] [info]  updateCollection
+[2024-11-03 02:32:16.477] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:16.562] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:17.145] [info]  updateCollection
+[2024-11-03 02:32:17.151] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:17.232] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:17.359] [info]  updateCollection
+[2024-11-03 02:32:17.364] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:17.449] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:17.841] [info]  { disableSSLVerification: false }
+[2024-11-03 02:32:17.876] [info]  createResponse
+[2024-11-03 02:32:17.963] [info]  add /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:32:25.984] [info]  updateCollection
+[2024-11-03 02:32:25.987] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:26.071] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:26.811] [info]  updateCollection
+[2024-11-03 02:32:26.816] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:26.899] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:27.992] [info]  updateCollection
+[2024-11-03 02:32:27.995] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:27.996] [info]  updateCollection
+[2024-11-03 02:32:28.001] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:28.074] [info]  updateCollection
+[2024-11-03 02:32:28.079] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:28.165] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:28.363] [info]  updateCollection
+[2024-11-03 02:32:28.368] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:28.369] [info]  updateCollection
+[2024-11-03 02:32:28.372] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:28.454] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:28.494] [info]  updateCollection
+[2024-11-03 02:32:28.507] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:28.589] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:29.435] [info]  updateCollection
+[2024-11-03 02:32:29.442] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:29.527] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:30.816] [info]  { disableSSLVerification: false }
+[2024-11-03 02:32:30.841] [info]  createResponse
+[2024-11-03 02:32:30.939] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:32:31.538] [info]  { disableSSLVerification: false }
+[2024-11-03 02:32:31.545] [info]  createResponse
+[2024-11-03 02:32:31.638] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:32:32.881] [info]  updateCollection
+[2024-11-03 02:32:32.899] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:32.905] [info]  updateCollection
+[2024-11-03 02:32:32.907] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:32.980] [info]  updateCollection
+[2024-11-03 02:32:32.983] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:33.068] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:33.271] [info]  updateCollection
+[2024-11-03 02:32:33.278] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:33.364] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:33.392] [info]  updateCollection
+[2024-11-03 02:32:33.402] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:33.486] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:33.944] [info]  { disableSSLVerification: false }
+[2024-11-03 02:32:33.969] [info]  createResponse
+[2024-11-03 02:32:34.068] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:32:34.520] [info]  { disableSSLVerification: false }
+[2024-11-03 02:32:34.545] [info]  createResponse
+[2024-11-03 02:32:34.648] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:32:34.696] [info]  { disableSSLVerification: false }
+[2024-11-03 02:32:34.723] [info]  createResponse
+[2024-11-03 02:32:34.819] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:32:34.895] [info]  { disableSSLVerification: false }
+[2024-11-03 02:32:34.927] [info]  createResponse
+[2024-11-03 02:32:35.027] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:32:36.348] [info]  updateCollection
+[2024-11-03 02:32:36.357] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:36.443] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:32:39.135] [info]  { disableSSLVerification: false }
+[2024-11-03 02:32:39.163] [info]  createResponse
+[2024-11-03 02:32:39.270] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:44:06.961] [info]  { disableSSLVerification: false }
+[2024-11-03 02:44:06.968] [info]  createResponse
+[2024-11-03 02:44:07.055] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:44:08.094] [info]  { disableSSLVerification: false }
+[2024-11-03 02:44:08.124] [info]  createResponse
+[2024-11-03 02:44:08.228] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:44:10.645] [info]  updateCollection
+[2024-11-03 02:44:10.652] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:10.735] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:10.815] [info]  updateCollection
+[2024-11-03 02:44:10.821] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:10.909] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:12.308] [info]  { disableSSLVerification: false }
+[2024-11-03 02:44:12.348] [info]  createResponse
+[2024-11-03 02:44:12.442] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:44:21.173] [info]  updateCollection
+[2024-11-03 02:44:21.175] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:21.260] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:24.129] [info]  updateCollection
+[2024-11-03 02:44:24.134] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:24.217] [info]  updateCollection
+[2024-11-03 02:44:24.220] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:24.306] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:24.448] [info]  updateCollection
+[2024-11-03 02:44:24.451] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:24.534] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:24.661] [info]  updateCollection
+[2024-11-03 02:44:24.666] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:24.713] [info]  updateCollection
+[2024-11-03 02:44:24.715] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:24.801] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:24.880] [info]  updateCollection
+[2024-11-03 02:44:24.885] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:24.968] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:29.756] [info]  updateCollection
+[2024-11-03 02:44:29.759] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:29.806] [info]  updateCollection
+[2024-11-03 02:44:29.809] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:29.896] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:30.072] [info]  updateCollection
+[2024-11-03 02:44:30.075] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:30.158] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:30.182] [info]  updateCollection
+[2024-11-03 02:44:30.184] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:30.269] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:32.223] [info]  updateCollection
+[2024-11-03 02:44:32.227] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:32.313] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:32.328] [info]  updateCollection
+[2024-11-03 02:44:32.333] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:32.417] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:32.584] [info]  updateCollection
+[2024-11-03 02:44:32.590] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:32.674] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:32.800] [info]  updateCollection
+[2024-11-03 02:44:32.808] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:32.855] [info]  updateCollection
+[2024-11-03 02:44:32.857] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:32.943] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:33.040] [info]  updateCollection
+[2024-11-03 02:44:33.044] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:33.129] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:35.033] [info]  { disableSSLVerification: false }
+[2024-11-03 02:44:35.073] [info]  createResponse
+[2024-11-03 02:44:35.169] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:44:39.835] [info]  updateCollection
+[2024-11-03 02:44:39.837] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:39.837] [info]  updateCollection
+[2024-11-03 02:44:39.840] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:39.921] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:44:41.578] [info]  { disableSSLVerification: false }
+[2024-11-03 02:44:41.586] [info]  createResponse
+[2024-11-03 02:44:41.671] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:45:11.980] [info]  updateCollection
+[2024-11-03 02:45:11.983] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:12.065] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:12.321] [info]  updateCollection
+[2024-11-03 02:45:12.324] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:12.358] [info]  updateCollection
+[2024-11-03 02:45:12.360] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:12.448] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:15.457] [info]  updateCollection
+[2024-11-03 02:45:15.458] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:15.474] [info]  updateCollection
+[2024-11-03 02:45:15.476] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:15.564] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:16.615] [info]  { disableSSLVerification: false }
+[2024-11-03 02:45:16.643] [info]  createResponse
+[2024-11-03 02:45:16.739] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:45:17.383] [info]  { disableSSLVerification: false }
+[2024-11-03 02:45:17.410] [info]  createResponse
+[2024-11-03 02:45:17.509] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:45:37.519] [info]  { disableSSLVerification: false }
+[2024-11-03 02:45:37.552] [info]  createResponse
+[2024-11-03 02:45:37.644] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:45:43.244] [info]  updateCollection
+[2024-11-03 02:45:43.245] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:43.328] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:43.378] [info]  updateCollection
+[2024-11-03 02:45:43.381] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:43.465] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:45.008] [info]  { disableSSLVerification: false }
+[2024-11-03 02:45:45.043] [info]  createResponse
+[2024-11-03 02:45:45.142] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:45:47.612] [info]  updateCollection
+[2024-11-03 02:45:47.615] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:47.647] [info]  updateCollection
+[2024-11-03 02:45:47.649] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:47.742] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:48.574] [info]  { disableSSLVerification: false }
+[2024-11-03 02:45:48.592] [info]  createResponse
+[2024-11-03 02:45:48.691] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:45:49.423] [info]  { disableSSLVerification: false }
+[2024-11-03 02:45:49.455] [info]  createResponse
+[2024-11-03 02:45:49.560] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:45:53.638] [info]  updateCollection
+[2024-11-03 02:45:53.640] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:53.724] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:54.392] [info]  { disableSSLVerification: false }
+[2024-11-03 02:45:54.428] [info]  createResponse
+[2024-11-03 02:45:54.527] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:45:58.996] [info]  updateCollection
+[2024-11-03 02:45:58.999] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:59.080] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:59.368] [info]  updateCollection
+[2024-11-03 02:45:59.370] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:59.410] [info]  updateCollection
+[2024-11-03 02:45:59.413] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:45:59.507] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:46:00.265] [info]  { disableSSLVerification: false }
+[2024-11-03 02:46:00.302] [info]  deleteResponsesByIds
+[2024-11-03 02:46:00.314] [info]  Deleted responses: u0VlnMboynbSaz_dhFY_l from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:46:00.321] [info]  createResponse
+[2024-11-03 02:46:00.426] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:47:16.256] [info]  { disableSSLVerification: false }
+[2024-11-03 02:47:16.288] [info]  deleteResponsesByIds
+[2024-11-03 02:47:16.297] [info]  Deleted responses: MpUSLqqJWQYxTG7sWBeVH from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:47:16.303] [info]  createResponse
+[2024-11-03 02:47:16.404] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:47:16.879] [info]  { disableSSLVerification: false }
+[2024-11-03 02:47:16.904] [info]  deleteResponsesByIds
+[2024-11-03 02:47:16.909] [info]  Deleted responses: I35cVmUZAQKjLunyXRvUK from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:47:16.911] [info]  createResponse
+[2024-11-03 02:47:16.995] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:47:17.057] [info]  { disableSSLVerification: false }
+[2024-11-03 02:47:17.081] [info]  deleteResponsesByIds
+[2024-11-03 02:47:17.096] [info]  Deleted responses: 54k7AOtW2qQTKmvj7nwjx from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:47:17.106] [info]  createResponse
+[2024-11-03 02:47:17.207] [info]  { disableSSLVerification: false }
+[2024-11-03 02:47:17.210] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:47:17.230] [info]  deleteResponsesByIds
+[2024-11-03 02:47:17.243] [info]  Deleted responses: izux7n7VhIVdSL8uDCteE from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:47:17.249] [info]  createResponse
+[2024-11-03 02:47:17.351] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:47:26.391] [info]  { disableSSLVerification: false }
+[2024-11-03 02:47:26.486] [info]  deleteResponsesByIds
+[2024-11-03 02:47:26.489] [info]  Deleted responses: KZFSwFspUca14EX-BPy6M from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:47:26.491] [info]  createResponse
+[2024-11-03 02:47:26.583] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:47:27.176] [info]  { disableSSLVerification: false }
+[2024-11-03 02:47:27.196] [info]  deleteResponsesByIds
+[2024-11-03 02:47:27.206] [info]  Deleted responses: AhRlrQK4HvxsKwdFdptWN from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:47:27.209] [info]  createResponse
+[2024-11-03 02:47:27.300] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:47:27.785] [info]  { disableSSLVerification: false }
+[2024-11-03 02:47:27.810] [info]  deleteResponsesByIds
+[2024-11-03 02:47:27.824] [info]  Deleted responses: kUf5RrZWoXzaN2qptyfcM from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:47:27.831] [info]  createResponse
+[2024-11-03 02:47:27.931] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:47:28.263] [info]  { disableSSLVerification: false }
+[2024-11-03 02:47:28.285] [info]  deleteResponsesByIds
+[2024-11-03 02:47:28.293] [info]  Deleted responses: XsXtug1BN2CNbE2f2FXap from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:47:28.296] [info]  createResponse
+[2024-11-03 02:47:28.388] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:54:01.407] [info]  updateCollection
+[2024-11-03 02:54:01.409] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:01.492] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:02.446] [info]  updateCollection
+[2024-11-03 02:54:02.449] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:02.533] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:02.578] [info]  updateCollection
+[2024-11-03 02:54:02.580] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:02.666] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:02.805] [info]  updateCollection
+[2024-11-03 02:54:02.812] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:02.897] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:03.032] [info]  updateCollection
+[2024-11-03 02:54:03.036] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:03.099] [info]  updateCollection
+[2024-11-03 02:54:03.103] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:03.190] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:03.255] [info]  updateCollection
+[2024-11-03 02:54:03.262] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:03.346] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:04.893] [info]  { disableSSLVerification: false }
+[2024-11-03 02:54:04.917] [info]  deleteResponsesByIds
+[2024-11-03 02:54:04.932] [info]  Deleted responses: B9MWLUx4j8C_bBD1fIQYo from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:54:04.939] [info]  createResponse
+[2024-11-03 02:54:05.034] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:54:10.339] [info]  updateCollection
+[2024-11-03 02:54:10.341] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:10.425] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:10.959] [info]  updateCollection
+[2024-11-03 02:54:10.963] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:11.049] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:11.680] [info]  updateCollection
+[2024-11-03 02:54:11.683] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:11.768] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:12.531] [info]  updateCollection
+[2024-11-03 02:54:12.536] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:12.621] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:13.050] [info]  updateCollection
+[2024-11-03 02:54:13.054] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:13.138] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:15.060] [info]  updateCollection
+[2024-11-03 02:54:15.063] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:15.146] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:15.227] [info]  updateCollection
+[2024-11-03 02:54:15.231] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:15.312] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:15.409] [info]  updateCollection
+[2024-11-03 02:54:15.412] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:15.500] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:15.804] [info]  updateCollection
+[2024-11-03 02:54:15.808] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:15.892] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:16.565] [info]  updateCollection
+[2024-11-03 02:54:16.567] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:16.651] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:16.676] [info]  updateCollection
+[2024-11-03 02:54:16.683] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:16.769] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:54:17.365] [info]  { disableSSLVerification: false }
+[2024-11-03 02:54:17.428] [info]  deleteResponsesByIds
+[2024-11-03 02:54:17.434] [info]  Deleted responses: Z3diOqKNoEpA9u95AOYFm from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:54:17.439] [info]  createResponse
+[2024-11-03 02:54:17.537] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:56:02.886] [info]  updateCollection
+[2024-11-03 02:56:02.888] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:02.973] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:03.517] [info]  updateCollection
+[2024-11-03 02:56:03.520] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:03.604] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:04.535] [info]  { disableSSLVerification: false }
+[2024-11-03 02:56:04.563] [info]  deleteResponsesByIds
+[2024-11-03 02:56:04.568] [info]  Deleted responses: Ruwl2_btoJosN3_flC9QA from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:56:04.570] [info]  createResponse
+[2024-11-03 02:56:04.658] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:56:07.572] [info]  updateCollection
+[2024-11-03 02:56:07.574] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:07.599] [info]  updateCollection
+[2024-11-03 02:56:07.601] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:07.690] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:07.850] [info]  { disableSSLVerification: false }
+[2024-11-03 02:56:07.881] [info]  deleteResponsesByIds
+[2024-11-03 02:56:07.885] [info]  Deleted responses: -r6ir7GXPbJinhzc_H5Tc from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:56:07.888] [info]  createResponse
+[2024-11-03 02:56:07.978] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:56:13.852] [info]  updateCollection
+[2024-11-03 02:56:13.854] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:13.938] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:14.437] [info]  { disableSSLVerification: false }
+[2024-11-03 02:56:14.470] [info]  deleteResponsesByIds
+[2024-11-03 02:56:14.476] [info]  Deleted responses: wPQaomfXS-9bpScLjXrqE from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:56:14.480] [info]  createResponse
+[2024-11-03 02:56:14.568] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:56:19.734] [info]  updateCollection
+[2024-11-03 02:56:19.740] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:19.822] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:21.097] [info]  updateCollection
+[2024-11-03 02:56:21.100] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:21.183] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:21.363] [info]  { disableSSLVerification: false }
+[2024-11-03 02:56:21.397] [info]  deleteResponsesByIds
+[2024-11-03 02:56:21.400] [info]  Deleted responses: bmMQc_EdIgJ0CMGcDMWRi from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:56:21.402] [info]  createResponse
+[2024-11-03 02:56:21.486] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:56:23.499] [info]  updateCollection
+[2024-11-03 02:56:23.510] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:23.594] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:23.697] [info]  updateCollection
+[2024-11-03 02:56:23.704] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:23.785] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:23.953] [info]  updateCollection
+[2024-11-03 02:56:23.961] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:24.049] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:24.322] [info]  updateCollection
+[2024-11-03 02:56:24.334] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:24.418] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:25.173] [info]  updateCollection
+[2024-11-03 02:56:25.181] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:25.265] [info]  updateCollection
+[2024-11-03 02:56:25.267] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:25.274] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:25.358] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:25.680] [info]  updateCollection
+[2024-11-03 02:56:25.686] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:25.773] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:25.853] [info]  updateCollection
+[2024-11-03 02:56:25.863] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:25.951] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:26.749] [info]  updateCollection
+[2024-11-03 02:56:26.753] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:26.836] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:27.231] [info]  updateCollection
+[2024-11-03 02:56:27.233] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:27.316] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:27.377] [info]  updateCollection
+[2024-11-03 02:56:27.380] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:27.464] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:28.124] [info]  { disableSSLVerification: false }
+[2024-11-03 02:56:28.129] [info]  deleteResponsesByIds
+[2024-11-03 02:56:28.131] [info]  Deleted responses: 1EA5Vx_rHyasU2gzzAhcb from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:56:28.133] [info]  createResponse
+[2024-11-03 02:56:28.223] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:56:31.305] [info]  updateCollection
+[2024-11-03 02:56:31.307] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:31.392] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:31.608] [info]  updateCollection
+[2024-11-03 02:56:31.612] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:31.697] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:32.411] [info]  updateCollection
+[2024-11-03 02:56:32.415] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:32.501] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:44.243] [info]  updateCollection
+[2024-11-03 02:56:44.246] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:44.330] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:44.571] [info]  { disableSSLVerification: false }
+[2024-11-03 02:56:44.600] [info]  deleteResponsesByIds
+[2024-11-03 02:56:44.603] [info]  Deleted responses: ce7DWQLypzA82ct58fLUr from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:56:44.607] [info]  createResponse
+[2024-11-03 02:56:44.699] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:56:46.352] [info]  updateCollection
+[2024-11-03 02:56:46.356] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:46.439] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:46.749] [info]  { disableSSLVerification: false }
+[2024-11-03 02:56:46.764] [info]  deleteResponsesByIds
+[2024-11-03 02:56:46.766] [info]  Deleted responses: OAFSvf2_erhM0Cc_JRH2- from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:56:46.768] [info]  createResponse
+[2024-11-03 02:56:46.850] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:56:51.673] [info]  updateCollection
+[2024-11-03 02:56:51.675] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:51.758] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:57.670] [info]  updateCollection
+[2024-11-03 02:56:57.674] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:57.760] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:57.907] [info]  updateCollection
+[2024-11-03 02:56:57.910] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:57.995] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:56:59.924] [info]  updateCollection
+[2024-11-03 02:56:59.927] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:00.011] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:00.208] [info]  updateCollection
+[2024-11-03 02:57:00.211] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:00.294] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:02.144] [info]  updateCollection
+[2024-11-03 02:57:02.147] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:02.232] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:03.602] [info]  updateCollection
+[2024-11-03 02:57:03.604] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:03.687] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:03.846] [info]  updateCollection
+[2024-11-03 02:57:03.850] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:03.937] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:04.086] [info]  updateCollection
+[2024-11-03 02:57:04.090] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:04.175] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:04.360] [info]  updateCollection
+[2024-11-03 02:57:04.363] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:04.438] [info]  updateCollection
+[2024-11-03 02:57:04.441] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:04.532] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:04.542] [info]  updateCollection
+[2024-11-03 02:57:04.546] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:04.632] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:05.882] [info]  updateCollection
+[2024-11-03 02:57:05.884] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:05.970] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:06.350] [info]  updateCollection
+[2024-11-03 02:57:06.355] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:06.436] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:06.915] [info]  updateCollection
+[2024-11-03 02:57:06.918] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:06.950] [info]  updateCollection
+[2024-11-03 02:57:06.952] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:07.043] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:08.255] [info]  { disableSSLVerification: false }
+[2024-11-03 02:57:08.284] [info]  deleteResponsesByIds
+[2024-11-03 02:57:08.288] [info]  Deleted responses: RiuoCdDX-_JJI9LpLgNU9 from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:57:08.292] [info]  createResponse
+[2024-11-03 02:57:08.384] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:57:14.245] [info]  updateCollection
+[2024-11-03 02:57:14.247] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:14.329] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:14.552] [info]  updateCollection
+[2024-11-03 02:57:14.554] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:14.639] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:15.197] [info]  updateCollection
+[2024-11-03 02:57:15.200] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:15.282] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:15.436] [info]  updateCollection
+[2024-11-03 02:57:15.441] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:15.522] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:16.095] [info]  updateCollection
+[2024-11-03 02:57:16.097] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:16.115] [info]  updateCollection
+[2024-11-03 02:57:16.117] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:16.147] [info]  updateCollection
+[2024-11-03 02:57:16.149] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:16.186] [info]  updateCollection
+[2024-11-03 02:57:16.188] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:16.253] [info]  updateCollection
+[2024-11-03 02:57:16.257] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:16.268] [info]  updateCollection
+[2024-11-03 02:57:16.270] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:16.312] [info]  updateCollection
+[2024-11-03 02:57:16.314] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:16.348] [info]  updateCollection
+[2024-11-03 02:57:16.350] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:16.398] [info]  updateCollection
+[2024-11-03 02:57:16.401] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:16.436] [info]  updateCollection
+[2024-11-03 02:57:16.441] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:16.468] [info]  updateCollection
+[2024-11-03 02:57:16.469] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:16.513] [info]  updateCollection
+[2024-11-03 02:57:16.515] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:16.549] [info]  updateCollection
+[2024-11-03 02:57:16.550] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:16.587] [info]  updateCollection
+[2024-11-03 02:57:16.589] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:16.629] [info]  updateCollection
+[2024-11-03 02:57:16.631] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:16.724] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:57:17.116] [info]  { disableSSLVerification: false }
+[2024-11-03 02:57:17.151] [info]  deleteResponsesByIds
+[2024-11-03 02:57:17.162] [info]  Deleted responses: Mu80jzD2IH9bw4cTeoxPn from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:57:17.168] [info]  createResponse
+[2024-11-03 02:57:17.268] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:59:25.711] [info]  updateCollection
+[2024-11-03 02:59:25.714] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:25.798] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:26.620] [info]  updateCollection
+[2024-11-03 02:59:26.626] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:26.711] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:26.857] [info]  updateCollection
+[2024-11-03 02:59:26.861] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:26.949] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:26.959] [info]  updateCollection
+[2024-11-03 02:59:26.963] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:27.047] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:27.098] [info]  updateCollection
+[2024-11-03 02:59:27.105] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:27.194] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:27.247] [info]  updateCollection
+[2024-11-03 02:59:27.260] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:27.342] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:28.731] [info]  updateCollection
+[2024-11-03 02:59:28.733] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:28.821] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:29.450] [info]  updateCollection
+[2024-11-03 02:59:29.458] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:29.525] [info]  updateCollection
+[2024-11-03 02:59:29.532] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:29.620] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:29.729] [info]  updateCollection
+[2024-11-03 02:59:29.735] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:29.811] [info]  updateCollection
+[2024-11-03 02:59:29.814] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:29.820] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:29.902] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:29.964] [info]  { disableSSLVerification: false }
+[2024-11-03 02:59:30.001] [info]  deleteResponsesByIds
+[2024-11-03 02:59:30.014] [info]  Deleted responses: s1Pe97SdgaJ3JTJMi2V6H from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:59:30.021] [info]  createResponse
+[2024-11-03 02:59:30.116] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:59:31.518] [info]  updateCollection
+[2024-11-03 02:59:31.522] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:31.608] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:31.654] [info]  updateCollection
+[2024-11-03 02:59:31.662] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:31.745] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:31.806] [info]  updateCollection
+[2024-11-03 02:59:31.814] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:31.898] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 02:59:32.251] [info]  { disableSSLVerification: false }
+[2024-11-03 02:59:32.280] [info]  deleteResponsesByIds
+[2024-11-03 02:59:32.284] [info]  Deleted responses: UYDp7MpHJ7CDGTpIimV_t from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 02:59:32.286] [info]  createResponse
+[2024-11-03 02:59:32.378] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:00:39.827] [info]  { disableSSLVerification: false }
+[2024-11-03 03:00:39.927] [info]  deleteResponsesByIds
+[2024-11-03 03:00:39.931] [info]  Deleted responses: w5VgODN-LeqnPWr5DOUCK from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:00:39.933] [info]  createResponse
+[2024-11-03 03:00:40.025] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:00:43.056] [info]  updateCollection
+[2024-11-03 03:00:43.058] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:43.140] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:45.660] [info]  updateCollection
+[2024-11-03 03:00:45.663] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:45.709] [info]  updateCollection
+[2024-11-03 03:00:45.710] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:45.801] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:45.943] [info]  updateCollection
+[2024-11-03 03:00:45.946] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:46.031] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:46.094] [info]  updateCollection
+[2024-11-03 03:00:46.098] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:46.182] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:46.361] [info]  updateCollection
+[2024-11-03 03:00:46.367] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:46.451] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:46.857] [info]  updateCollection
+[2024-11-03 03:00:46.862] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:46.945] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:47.476] [info]  updateCollection
+[2024-11-03 03:00:47.482] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:47.561] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:47.892] [info]  { disableSSLVerification: false }
+[2024-11-03 03:00:47.922] [info]  deleteResponsesByIds
+[2024-11-03 03:00:47.925] [info]  Deleted responses: tBp0lg1xSktSmcSM2D16N from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:00:47.929] [info]  createResponse
+[2024-11-03 03:00:48.019] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:00:56.616] [info]  updateCollection
+[2024-11-03 03:00:56.618] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:56.618] [info]  updateCollection
+[2024-11-03 03:00:56.620] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:56.654] [info]  updateCollection
+[2024-11-03 03:00:56.656] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:56.745] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:00:57.030] [info]  { disableSSLVerification: false }
+[2024-11-03 03:00:57.061] [info]  deleteResponsesByIds
+[2024-11-03 03:00:57.067] [info]  Deleted responses: vOo7YBb-7UL1729J7t9YP from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:00:57.069] [info]  createResponse
+[2024-11-03 03:00:57.161] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:15:11.539] [info]  { disableSSLVerification: false }
+[2024-11-03 03:15:11.604] [info]  deleteResponsesByIds
+[2024-11-03 03:15:11.606] [info]  Deleted responses: qE1PWkVD32iZ5KaL2G7LN from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:15:11.607] [info]  createResponse
+[2024-11-03 03:15:11.690] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:15:12.103] [info]  { disableSSLVerification: false }
+[2024-11-03 03:15:12.138] [info]  deleteResponsesByIds
+[2024-11-03 03:15:12.142] [info]  Deleted responses: QP__KD7Ah9wb8v9UNgHsy from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:15:12.144] [info]  createResponse
+[2024-11-03 03:15:12.234] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:15:12.259] [info]  { disableSSLVerification: false }
+[2024-11-03 03:15:12.302] [info]  deleteResponsesByIds
+[2024-11-03 03:15:12.310] [info]  Deleted responses: z5hXoZX6FMqYtqz1GbcAf from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:15:12.315] [info]  createResponse
+[2024-11-03 03:15:12.406] [info]  { disableSSLVerification: false }
+[2024-11-03 03:15:12.411] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:15:12.439] [info]  deleteResponsesByIds
+[2024-11-03 03:15:12.448] [info]  Deleted responses: 7rCL83I9JlpFd9fJmL5u5 from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:15:12.458] [info]  createResponse
+[2024-11-03 03:15:12.556] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:15:19.450] [info]  updateCollection
+[2024-11-03 03:15:19.452] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:15:19.537] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:15:21.869] [info]  { disableSSLVerification: false }
+[2024-11-03 03:15:21.940] [info]  deleteResponsesByIds
+[2024-11-03 03:15:21.942] [info]  Deleted responses: nUE7Vkbs8jTv6XThnPEQp from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:15:21.943] [info]  createResponse
+[2024-11-03 03:15:22.024] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:16:48.427] [info]  { disableSSLVerification: false }
+[2024-11-03 03:16:48.528] [info]  deleteResponsesByIds
+[2024-11-03 03:16:48.530] [info]  Deleted responses: Vm2IRKuLznaoLPNmNrbde from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:16:48.532] [info]  createResponse
+[2024-11-03 03:16:48.625] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:16:49.384] [info]  { disableSSLVerification: false }
+[2024-11-03 03:16:49.405] [info]  deleteResponsesByIds
+[2024-11-03 03:16:49.417] [info]  Deleted responses: boFL03j6NWPPI3zxLJ2z7 from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:16:49.423] [info]  createResponse
+[2024-11-03 03:16:49.522] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:16:49.536] [info]  { disableSSLVerification: false }
+[2024-11-03 03:16:49.543] [info]  deleteResponsesByIds
+[2024-11-03 03:16:49.549] [info]  Deleted responses: DSZ26MHTBMx584k8G0xhs from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:16:49.553] [info]  createResponse
+[2024-11-03 03:16:49.656] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:16:53.941] [info]  updateCollection
+[2024-11-03 03:16:53.944] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:54.029] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:54.569] [info]  updateCollection
+[2024-11-03 03:16:54.574] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:54.582] [info]  updateCollection
+[2024-11-03 03:16:54.583] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:54.620] [info]  updateCollection
+[2024-11-03 03:16:54.622] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:54.713] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:54.838] [info]  updateCollection
+[2024-11-03 03:16:54.843] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:54.930] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:55.021] [info]  updateCollection
+[2024-11-03 03:16:55.025] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:55.110] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:55.197] [info]  updateCollection
+[2024-11-03 03:16:55.208] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:55.296] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:55.362] [info]  updateCollection
+[2024-11-03 03:16:55.368] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:55.455] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:55.547] [info]  updateCollection
+[2024-11-03 03:16:55.554] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:55.641] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:55.698] [info]  updateCollection
+[2024-11-03 03:16:55.708] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:55.793] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:55.872] [info]  updateCollection
+[2024-11-03 03:16:55.881] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:55.965] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:16:56.434] [info]  { disableSSLVerification: false }
+[2024-11-03 03:16:56.467] [info]  deleteResponsesByIds
+[2024-11-03 03:16:56.474] [info]  Deleted responses: VQIOPR5d09b0mPmRD0eZX from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:16:56.477] [info]  createResponse
+[2024-11-03 03:16:56.561] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:16:57.302] [info]  { disableSSLVerification: false }
+[2024-11-03 03:16:57.331] [info]  deleteResponsesByIds
+[2024-11-03 03:16:57.335] [info]  Deleted responses: vslE_r4x7CRmT8yoigGly from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:16:57.338] [info]  createResponse
+[2024-11-03 03:16:57.429] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:16:57.464] [info]  { disableSSLVerification: false }
+[2024-11-03 03:16:57.499] [info]  deleteResponsesByIds
+[2024-11-03 03:16:57.511] [info]  Deleted responses: tTmc3vqKlb_GmvDHTxS2H from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:16:57.518] [info]  createResponse
+[2024-11-03 03:16:57.620] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:01.277] [info]  updateCollection
+[2024-11-03 03:17:01.279] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:01.361] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:02.789] [info]  updateCollection
+[2024-11-03 03:17:02.793] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:02.878] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:02.908] [info]  updateCollection
+[2024-11-03 03:17:02.911] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:02.997] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:03.084] [info]  updateCollection
+[2024-11-03 03:17:03.086] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:03.168] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:03.349] [info]  { disableSSLVerification: false }
+[2024-11-03 03:17:03.385] [info]  deleteResponsesByIds
+[2024-11-03 03:17:03.395] [info]  Deleted responses: ap5mLGbyVGB5j7COknnca from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:03.403] [info]  createResponse
+[2024-11-03 03:17:03.503] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:10.145] [info]  updateCollection
+[2024-11-03 03:17:10.147] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:10.231] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:10.304] [info]  updateCollection
+[2024-11-03 03:17:10.311] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:10.394] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:10.593] [info]  updateCollection
+[2024-11-03 03:17:10.596] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:10.682] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:11.772] [info]  { disableSSLVerification: false }
+[2024-11-03 03:17:11.797] [info]  deleteResponsesByIds
+[2024-11-03 03:17:11.801] [info]  Deleted responses: qsYPGScu1S_0jEaJEQgtq from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:11.803] [info]  createResponse
+[2024-11-03 03:17:11.887] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:12.351] [info]  { disableSSLVerification: false }
+[2024-11-03 03:17:12.381] [info]  deleteResponsesByIds
+[2024-11-03 03:17:12.385] [info]  Deleted responses: DoP7E-gWwBdErCwUtcjej from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:12.388] [info]  createResponse
+[2024-11-03 03:17:12.480] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:12.530] [info]  { disableSSLVerification: false }
+[2024-11-03 03:17:12.556] [info]  deleteResponsesByIds
+[2024-11-03 03:17:12.560] [info]  Deleted responses: evVsXi3cSFPch34eA54aY from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:12.562] [info]  createResponse
+[2024-11-03 03:17:12.652] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:12.711] [info]  { disableSSLVerification: false }
+[2024-11-03 03:17:12.744] [info]  deleteResponsesByIds
+[2024-11-03 03:17:12.757] [info]  Deleted responses: ntzRbtOo1-yswtzVbnINI from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:12.766] [info]  createResponse
+[2024-11-03 03:17:12.859] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:40.486] [info]  updateCollection
+[2024-11-03 03:17:40.488] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:40.571] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:40.790] [info]  { disableSSLVerification: false }
+[2024-11-03 03:17:40.806] [info]  deleteResponsesByIds
+[2024-11-03 03:17:40.810] [info]  Deleted responses: VChUH9Jg3L5g1SrtI9hBz from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:40.813] [info]  createResponse
+[2024-11-03 03:17:40.903] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:41.473] [info]  { disableSSLVerification: false }
+[2024-11-03 03:17:41.502] [info]  deleteResponsesByIds
+[2024-11-03 03:17:41.507] [info]  Deleted responses: ODSc5qwQgLFGDTV4e66C_ from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:41.511] [info]  createResponse
+[2024-11-03 03:17:41.601] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:41.647] [info]  { disableSSLVerification: false }
+[2024-11-03 03:17:41.672] [info]  deleteResponsesByIds
+[2024-11-03 03:17:41.677] [info]  Deleted responses: QB0g119kho2F2h7vGQVeF from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:41.680] [info]  createResponse
+[2024-11-03 03:17:41.762] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:41.847] [info]  { disableSSLVerification: false }
+[2024-11-03 03:17:41.881] [info]  deleteResponsesByIds
+[2024-11-03 03:17:41.893] [info]  Deleted responses: avsYQUlOdJDSL3rQLwSh5 from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:41.903] [info]  createResponse
+[2024-11-03 03:17:42.011] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:47.601] [info]  updateCollection
+[2024-11-03 03:17:47.602] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:47.631] [info]  updateCollection
+[2024-11-03 03:17:47.633] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:47.718] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:47.873] [info]  updateCollection
+[2024-11-03 03:17:47.880] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:47.964] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:48.117] [info]  updateCollection
+[2024-11-03 03:17:48.120] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:48.207] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:48.225] [info]  updateCollection
+[2024-11-03 03:17:48.233] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:48.320] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:48.337] [info]  updateCollection
+[2024-11-03 03:17:48.342] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:48.428] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:49.477] [info]  updateCollection
+[2024-11-03 03:17:49.480] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:49.568] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:53.859] [info]  updateCollection
+[2024-11-03 03:17:53.861] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:53.887] [info]  updateCollection
+[2024-11-03 03:17:53.888] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:53.978] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:54.187] [info]  updateCollection
+[2024-11-03 03:17:54.192] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:54.277] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:54.318] [info]  updateCollection
+[2024-11-03 03:17:54.321] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:54.405] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:55.419] [info]  updateCollection
+[2024-11-03 03:17:55.422] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:55.505] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:56.457] [info]  updateCollection
+[2024-11-03 03:17:56.461] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:56.546] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:57.531] [info]  updateCollection
+[2024-11-03 03:17:57.534] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:57.618] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:58.739] [info]  updateCollection
+[2024-11-03 03:17:58.742] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:58.831] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:58.987] [info]  updateCollection
+[2024-11-03 03:17:58.992] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:59.077] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:59.216] [info]  updateCollection
+[2024-11-03 03:17:59.218] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:59.298] [info]  updateCollection
+[2024-11-03 03:17:59.301] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:59.389] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:59.432] [info]  updateCollection
+[2024-11-03 03:17:59.434] [info]  Updated file: /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:59.520] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:17:59.905] [info]  { disableSSLVerification: false }
+[2024-11-03 03:17:59.938] [info]  deleteResponsesByIds
+[2024-11-03 03:17:59.942] [info]  Deleted responses: a42giSlLOxYrsUvUQwoqX from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:17:59.944] [info]  createResponse
+[2024-11-03 03:18:00.035] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:18:21.048] [info]  { disableSSLVerification: false }
+[2024-11-03 03:18:21.096] [info]  deleteResponsesByIds
+[2024-11-03 03:18:21.098] [info]  Deleted responses: Ts1rZCjAlA7OV3p2PglaA from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:18:21.100] [info]  createResponse
+[2024-11-03 03:18:21.185] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:18:22.182] [info]  { disableSSLVerification: false }
+[2024-11-03 03:18:22.210] [info]  deleteResponsesByIds
+[2024-11-03 03:18:22.214] [info]  Deleted responses: rCEt022C7P-dwkq2i2Apv from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:18:22.217] [info]  createResponse
+[2024-11-03 03:18:22.308] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:18:22.367] [info]  { disableSSLVerification: false }
+[2024-11-03 03:18:22.395] [info]  deleteResponsesByIds
+[2024-11-03 03:18:22.400] [info]  Deleted responses: ObxOCmDDKfYP0s-BsQ7zB from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:18:22.402] [info]  createResponse
+[2024-11-03 03:18:22.494] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:18:22.524] [info]  { disableSSLVerification: false }
+[2024-11-03 03:18:22.555] [info]  deleteResponsesByIds
+[2024-11-03 03:18:22.565] [info]  Deleted responses: CZyDpTCIPYCfxjQHlIp_r from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:18:22.570] [info]  createResponse
+[2024-11-03 03:18:22.676] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:18:22.685] [info]  { disableSSLVerification: false }
+[2024-11-03 03:18:22.717] [info]  deleteResponsesByIds
+[2024-11-03 03:18:22.727] [info]  Deleted responses: tqUDtKS6m0J5cONtnfpV3 from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:18:22.735] [info]  createResponse
+[2024-11-03 03:18:22.826] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:18:22.857] [info]  { disableSSLVerification: false }
+[2024-11-03 03:18:22.888] [info]  deleteResponsesByIds
+[2024-11-03 03:18:22.898] [info]  Deleted responses: hzyo2pWf_arAEylZlxZzF from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:18:22.904] [info]  createResponse
+[2024-11-03 03:18:23.011] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:18:23.015] [info]  { disableSSLVerification: false }
+[2024-11-03 03:18:23.048] [info]  deleteResponsesByIds
+[2024-11-03 03:18:23.059] [info]  Deleted responses: rd3CpcUtii_JPseRf66u5 from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:18:23.066] [info]  createResponse
+[2024-11-03 03:18:23.158] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:31:09.312] [info]  createCollection
+[2024-11-03 03:31:09.315] [info]  Created file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:09.377] [info]  updateCollection
+[2024-11-03 03:31:09.379] [info]  Updated sortOrder for /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:09.379] [info]  updateCollection
+[2024-11-03 03:31:09.381] [info]  Updated sortOrder for /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:31:09.382] [info]  updateCollection
+[2024-11-03 03:31:09.386] [info]  Updated sortOrder for /home/zeus/resst fox workspace/get.json
+[2024-11-03 03:31:09.386] [info]  getResponsesByCollectionId
+[2024-11-03 03:31:09.386] [info]  updateWorkspace
+[2024-11-03 03:31:09.387] [info]  No fields to update for workspace
+[2024-11-03 03:31:09.463] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-03 03:31:09.468] [info]  add /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:09.470] [info]  change /home/zeus/resst fox workspace/get.json
+[2024-11-03 03:31:12.076] [info]  updateCollection
+[2024-11-03 03:31:12.085] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:12.168] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:13.454] [info]  updateWorkspace
+[2024-11-03 03:31:13.455] [info]  No fields to update for workspace
+[2024-11-03 03:31:17.387] [info]  updateWorkspace
+[2024-11-03 03:31:17.387] [info]  No fields to update for workspace
+[2024-11-03 03:31:18.728] [info]  updateCollection
+[2024-11-03 03:31:18.732] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:18.815] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:19.800] [info]  updateCollection
+[2024-11-03 03:31:19.805] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:19.890] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:22.337] [info]  updateCollection
+[2024-11-03 03:31:22.342] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:22.426] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:22.646] [info]  updateCollection
+[2024-11-03 03:31:22.651] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:22.737] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:22.826] [info]  updateCollection
+[2024-11-03 03:31:22.830] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:22.915] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:23.526] [info]  updateCollection
+[2024-11-03 03:31:23.529] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:23.611] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:23.860] [info]  updateCollection
+[2024-11-03 03:31:23.864] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:23.947] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:24.058] [info]  updateCollection
+[2024-11-03 03:31:24.063] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:24.147] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:24.296] [info]  updateCollection
+[2024-11-03 03:31:24.303] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:24.388] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:25.381] [info]  { disableSSLVerification: false }
+[2024-11-03 03:31:25.411] [info]  createResponse
+[2024-11-03 03:31:25.495] [info]  add /home/zeus/resst fox workspace/add book.responses.json
+[2024-11-03 03:31:35.582] [info]  updateCollection
+[2024-11-03 03:31:35.584] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:35.669] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:31:35.990] [info]  { disableSSLVerification: false }
+[2024-11-03 03:31:36.020] [info]  createResponse
+[2024-11-03 03:31:36.107] [info]  change /home/zeus/resst fox workspace/add book.responses.json
+[2024-11-03 03:31:36.659] [info]  { disableSSLVerification: false }
+[2024-11-03 03:31:36.695] [info]  createResponse
+[2024-11-03 03:31:36.793] [info]  change /home/zeus/resst fox workspace/add book.responses.json
+[2024-11-03 03:31:36.818] [info]  { disableSSLVerification: false }
+[2024-11-03 03:31:36.829] [info]  createResponse
+[2024-11-03 03:31:36.919] [info]  change /home/zeus/resst fox workspace/add book.responses.json
+[2024-11-03 03:31:36.975] [info]  { disableSSLVerification: false }
+[2024-11-03 03:31:37.008] [info]  createResponse
+[2024-11-03 03:31:37.109] [info]  change /home/zeus/resst fox workspace/add book.responses.json
+[2024-11-03 03:31:37.443] [info]  { disableSSLVerification: false }
+[2024-11-03 03:31:37.478] [info]  createResponse
+[2024-11-03 03:31:37.579] [info]  change /home/zeus/resst fox workspace/add book.responses.json
+[2024-11-03 03:31:37.602] [info]  { disableSSLVerification: false }
+[2024-11-03 03:31:37.636] [info]  createResponse
+[2024-11-03 03:31:37.732] [info]  change /home/zeus/resst fox workspace/add book.responses.json
+[2024-11-03 03:31:46.016] [info]  updateWorkspace
+[2024-11-03 03:31:46.017] [info]  No fields to update for workspace
+[2024-11-03 03:31:46.976] [info]  { disableSSLVerification: false }
+[2024-11-03 03:31:47.000] [info]  deleteResponsesByIds
+[2024-11-03 03:31:47.014] [info]  Deleted responses: 0vtUa61NioWOfeZE5cWJ_ from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:31:47.026] [info]  createResponse
+[2024-11-03 03:31:47.128] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:31:47.605] [info]  { disableSSLVerification: false }
+[2024-11-03 03:31:47.624] [info]  deleteResponsesByIds
+[2024-11-03 03:31:47.633] [info]  Deleted responses: HuOdpweqYPC1AeBZzttlS from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:31:47.643] [info]  createResponse
+[2024-11-03 03:31:47.742] [info]  change /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-03 03:31:48.543] [info]  updateWorkspace
+[2024-11-03 03:31:48.544] [info]  No fields to update for workspace
+[2024-11-03 03:32:01.318] [info]  updateCollection
+[2024-11-03 03:32:01.321] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:32:01.405] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:32:02.495] [info]  { disableSSLVerification: false }
+[2024-11-03 03:32:02.539] [info]  createResponse
+[2024-11-03 03:32:02.627] [info]  change /home/zeus/resst fox workspace/add book.responses.json
+[2024-11-03 03:32:03.197] [info]  { disableSSLVerification: false }
+[2024-11-03 03:32:03.202] [info]  createResponse
+[2024-11-03 03:32:03.288] [info]  change /home/zeus/resst fox workspace/add book.responses.json
+[2024-11-03 03:33:31.184] [info]  { disableSSLVerification: false }
+[2024-11-03 03:33:31.217] [info]  createResponse
+[2024-11-03 03:33:31.313] [info]  change /home/zeus/resst fox workspace/add book.responses.json
+[2024-11-03 03:33:35.488] [info]  updateCollection
+[2024-11-03 03:33:35.491] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:35.578] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:35.813] [info]  updateCollection
+[2024-11-03 03:33:35.815] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:35.901] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:36.711] [info]  updateCollection
+[2024-11-03 03:33:36.714] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:36.799] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:39.064] [info]  updateCollection
+[2024-11-03 03:33:39.068] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:39.152] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:39.188] [info]  updateCollection
+[2024-11-03 03:33:39.195] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:39.280] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:39.415] [info]  updateCollection
+[2024-11-03 03:33:39.425] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:39.511] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:39.552] [info]  updateCollection
+[2024-11-03 03:33:39.560] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:39.647] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:41.164] [info]  updateCollection
+[2024-11-03 03:33:41.167] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:41.253] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:41.566] [info]  updateCollection
+[2024-11-03 03:33:41.570] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:41.651] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:42.419] [info]  updateCollection
+[2024-11-03 03:33:42.425] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:42.511] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:42.599] [info]  updateCollection
+[2024-11-03 03:33:42.607] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:42.693] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:42.801] [info]  updateCollection
+[2024-11-03 03:33:42.806] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:42.890] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:43.042] [info]  updateCollection
+[2024-11-03 03:33:43.048] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:43.133] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:43.225] [info]  updateCollection
+[2024-11-03 03:33:43.232] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:43.316] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:43.451] [info]  updateCollection
+[2024-11-03 03:33:43.461] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:43.547] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:43.637] [info]  updateCollection
+[2024-11-03 03:33:43.644] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:43.732] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:43.759] [info]  updateCollection
+[2024-11-03 03:33:43.766] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:43.853] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:45.516] [info]  updateCollection
+[2024-11-03 03:33:45.519] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:45.602] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:45.882] [info]  updateCollection
+[2024-11-03 03:33:45.888] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:45.971] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:46.643] [info]  updateCollection
+[2024-11-03 03:33:46.646] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:46.731] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:47.731] [info]  updateCollection
+[2024-11-03 03:33:47.734] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:47.820] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:48.044] [info]  updateCollection
+[2024-11-03 03:33:48.047] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:48.133] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:48.341] [info]  updateCollection
+[2024-11-03 03:33:48.344] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:48.428] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:48.430] [info]  updateCollection
+[2024-11-03 03:33:48.433] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:48.520] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:48.759] [info]  updateCollection
+[2024-11-03 03:33:48.765] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:48.847] [info]  updateCollection
+[2024-11-03 03:33:48.848] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:48.850] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:48.934] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:51.062] [info]  updateCollection
+[2024-11-03 03:33:51.066] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:51.150] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:51.635] [info]  updateCollection
+[2024-11-03 03:33:51.641] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:51.723] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:52.235] [info]  updateCollection
+[2024-11-03 03:33:52.240] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:52.326] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:52.579] [info]  updateCollection
+[2024-11-03 03:33:52.581] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:52.665] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:53.495] [info]  updateCollection
+[2024-11-03 03:33:53.497] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:53.577] [info]  updateCollection
+[2024-11-03 03:33:53.580] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:53.665] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:53.940] [info]  updateCollection
+[2024-11-03 03:33:53.943] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:54.029] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:54.237] [info]  updateCollection
+[2024-11-03 03:33:54.243] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:54.304] [info]  updateCollection
+[2024-11-03 03:33:54.311] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:54.400] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:54.610] [info]  updateCollection
+[2024-11-03 03:33:54.613] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:54.698] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:33:56.497] [info]  { disableSSLVerification: false }
+[2024-11-03 03:33:56.537] [info]  createResponse
+[2024-11-03 03:33:56.630] [info]  change /home/zeus/resst fox workspace/add book.responses.json
+[2024-11-03 03:37:40.599] [info]  updateCollection
+[2024-11-03 03:37:40.601] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:37:40.683] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:37:42.128] [info]  { disableSSLVerification: false }
+[2024-11-03 03:37:42.167] [info]  createResponse
+[2024-11-03 03:37:42.264] [info]  change /home/zeus/resst fox workspace/add book.responses.json
+[2024-11-03 03:37:54.560] [info]  updateCollection
+[2024-11-03 03:37:54.568] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:37:54.652] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-03 03:37:55.895] [info]  { disableSSLVerification: false }
+[2024-11-03 03:37:55.925] [info]  createResponse
+[2024-11-03 03:37:56.022] [info]  change /home/zeus/resst fox workspace/add book.responses.json
+[2024-11-04 10:23:14.823] [info]  "left top point: 1 / 1"
+[2024-11-04 10:23:14.830] [info]  scale: 1
+[2024-11-04 10:23:15.658] [info]  ipcMain: updateElectronApp
+[2024-11-04 10:23:15.660] [info]  Electron's autoUpdater does not support the 'linux' platform
+[2024-11-04 10:23:15.695] [info]  getCollectionForWorkspace
+[2024-11-04 10:23:15.700] [info]  getWorkspaceAtLocation
+[2024-11-04 10:23:15.923] [info]  getWorkspacePlugins
+[2024-11-04 10:23:15.926] [info]  getResponsesByCollectionId
+[2024-11-04 10:23:15.928] [info]  getCollectionForWorkspace
+[2024-11-04 10:23:15.928] [info]  getWorkspaceAtLocation
+[2024-11-04 10:23:24.603] [info]  updateCollection
+[2024-11-04 10:23:24.622] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-04 10:23:24.695] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-04 10:23:25.637] [info]  { disableSSLVerification: false }
+[2024-11-04 10:23:25.741] [info]  createResponse
+[2024-11-04 10:23:25.829] [info]  change /home/zeus/resst fox workspace/add book.responses.json
+[2024-11-04 10:23:29.596] [info]  updateCollection
+[2024-11-04 10:23:29.606] [info]  Updated file: /home/zeus/resst fox workspace/add book.json
+[2024-11-04 10:23:29.691] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-04 10:23:30.597] [info]  { disableSSLVerification: false }
+[2024-11-04 10:23:30.648] [info]  createResponse
+[2024-11-04 10:23:30.775] [info]  change /home/zeus/resst fox workspace/add book.responses.json
+[2024-11-04 20:36:53.651] [info]  "left top point: 1 / 1"
+[2024-11-04 20:36:53.659] [info]  scale: 1
+[2024-11-04 20:36:54.750] [info]  ipcMain: updateElectronApp
+[2024-11-04 20:36:54.753] [info]  Electron's autoUpdater does not support the 'linux' platform
+[2024-11-04 20:36:54.794] [info]  getCollectionForWorkspace
+[2024-11-04 20:36:54.799] [info]  getWorkspaceAtLocation
+[2024-11-04 20:36:55.021] [info]  getWorkspacePlugins
+[2024-11-04 20:36:55.024] [info]  getResponsesByCollectionId
+[2024-11-04 20:36:55.026] [info]  getCollectionForWorkspace
+[2024-11-04 20:36:55.027] [info]  getWorkspaceAtLocation
+[2024-11-04 20:37:00.891] [info]  createCollection
+[2024-11-04 20:37:00.900] [info]  Created file: /home/zeus/resst fox workspace/New Request.json
+[2024-11-04 20:37:01.000] [info]  add /home/zeus/resst fox workspace/New Request.json
+[2024-11-04 20:37:01.152] [info]  updateCollection
+[2024-11-04 20:37:01.168] [info]  Updated sortOrder for /home/zeus/resst fox workspace/New Request.json
+[2024-11-04 20:37:01.168] [info]  updateCollection
+[2024-11-04 20:37:01.187] [info]  Updated sortOrder for /home/zeus/resst fox workspace/add book.json
+[2024-11-04 20:37:01.188] [info]  updateCollection
+[2024-11-04 20:37:01.199] [info]  Updated sortOrder for /home/zeus/resst fox workspace/greet.json
+[2024-11-04 20:37:01.200] [info]  updateCollection
+[2024-11-04 20:37:01.215] [info]  Updated sortOrder for /home/zeus/resst fox workspace/get.json
+[2024-11-04 20:37:01.217] [info]  getResponsesByCollectionId
+[2024-11-04 20:37:01.221] [info]  updateWorkspace
+[2024-11-04 20:37:01.230] [info]  No fields to update for workspace
+[2024-11-04 20:37:01.248] [info]  change /home/zeus/resst fox workspace/New Request.json
+[2024-11-04 20:37:01.271] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-04 20:37:01.283] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-04 20:37:01.295] [info]  change /home/zeus/resst fox workspace/get.json
+[2024-11-04 20:37:05.377] [info]  updateCollection
+[2024-11-04 20:37:05.411] [info]  Updated file: /home/zeus/resst fox workspace/New Request.json
+[2024-11-04 20:37:05.486] [info]  change /home/zeus/resst fox workspace/New Request.json
+[2024-11-04 20:37:07.778] [info]  updateCollection
+[2024-11-04 20:37:07.807] [info]  Updated file: /home/zeus/resst fox workspace/New Request.json
+[2024-11-04 20:37:07.891] [info]  change /home/zeus/resst fox workspace/New Request.json
+[2024-11-04 20:37:09.371] [info]  updateCollection
+[2024-11-04 20:37:09.385] [info]  Updated file: /home/zeus/resst fox workspace/New Request.json
+[2024-11-04 20:37:09.468] [info]  change /home/zeus/resst fox workspace/New Request.json
+[2024-11-04 20:37:10.318] [info]  { disableSSLVerification: false }
+[2024-11-04 20:37:10.406] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 20:37:10.712] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 20:37:11.088] [info]  createResponse
+[2024-11-04 20:37:11.197] [info]  add /home/zeus/resst fox workspace/New Request.responses.json
+[2024-11-04 20:37:42.582] [info]  { disableSSLVerification: false }
+[2024-11-04 20:37:42.591] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 20:37:42.786] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 20:37:43.067] [info]  createResponse
+[2024-11-04 20:37:43.171] [info]  change /home/zeus/resst fox workspace/New Request.responses.json
+[2024-11-04 21:03:27.212] [info]  deleteResponsesByCollectionIds
+[2024-11-04 21:03:27.215] [info]  Deleted responses for collection: /home/zeus/resst fox workspace/New Request.json from /home/zeus/resst fox workspace/New Request.responses.json
+[2024-11-04 21:03:27.218] [info]  deletePluginsByCollectionIds
+[2024-11-04 21:03:27.219] [info]  No plugins found for deletion for collection: /home/zeus/resst fox workspace/New Request.json
+[2024-11-04 21:03:27.221] [info]  deleteCollectionsByIds
+[2024-11-04 21:03:27.221] [info]  Deleting collection item: /home/zeus/resst fox workspace/New Request.json
+[2024-11-04 21:03:27.221] [info]  No messages found for deletion for collection item: /home/zeus/resst fox workspace/New Request.json
+[2024-11-04 21:03:27.246] [info]  updateWorkspace
+[2024-11-04 21:03:27.247] [info]  No fields to update for workspace
+[2024-11-04 21:03:27.317] [info]  unlink /home/zeus/resst fox workspace/New Request.responses.json
+[2024-11-04 21:03:27.317] [info]  unlink /home/zeus/resst fox workspace/New Request.json
+[2024-11-04 21:03:57.336] [info]  createCollection
+[2024-11-04 21:03:57.338] [info]  Created file: /home/zeus/resst fox workspace/get client.json
+[2024-11-04 21:03:57.390] [info]  updateCollection
+[2024-11-04 21:03:57.394] [info]  Updated sortOrder for /home/zeus/resst fox workspace/get client.json
+[2024-11-04 21:03:57.394] [info]  updateCollection
+[2024-11-04 21:03:57.399] [info]  Updated sortOrder for /home/zeus/resst fox workspace/add book.json
+[2024-11-04 21:03:57.400] [info]  updateCollection
+[2024-11-04 21:03:57.402] [info]  Updated sortOrder for /home/zeus/resst fox workspace/greet.json
+[2024-11-04 21:03:57.402] [info]  updateCollection
+[2024-11-04 21:03:57.407] [info]  Updated sortOrder for /home/zeus/resst fox workspace/get.json
+[2024-11-04 21:03:57.408] [info]  getResponsesByCollectionId
+[2024-11-04 21:03:57.409] [info]  updateWorkspace
+[2024-11-04 21:03:57.410] [info]  No fields to update for workspace
+[2024-11-04 21:03:57.482] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-04 21:03:57.482] [info]  add /home/zeus/resst fox workspace/get client.json
+[2024-11-04 21:03:57.482] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-04 21:03:57.492] [info]  change /home/zeus/resst fox workspace/get.json
+[2024-11-04 21:04:11.067] [info]  updateCollection
+[2024-11-04 21:04:11.073] [info]  Updated file: /home/zeus/resst fox workspace/get client.json
+[2024-11-04 21:04:11.155] [info]  change /home/zeus/resst fox workspace/get client.json
+[2024-11-04 21:04:14.204] [info]  { disableSSLVerification: false }
+[2024-11-04 21:04:14.206] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 21:04:14.414] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 21:04:14.598] [info]  createResponse
+[2024-11-04 21:04:14.685] [info]  add /home/zeus/resst fox workspace/get client.responses.json
+[2024-11-04 21:04:35.620] [info]  createCollection
+[2024-11-04 21:04:35.622] [info]  Created file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:04:35.710] [info]  add /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:04:35.755] [info]  updateCollection
+[2024-11-04 21:04:35.763] [info]  Updated sortOrder for /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:04:35.764] [info]  updateCollection
+[2024-11-04 21:04:35.779] [info]  Updated sortOrder for /home/zeus/resst fox workspace/get client.json
+[2024-11-04 21:04:35.781] [info]  updateCollection
+[2024-11-04 21:04:35.794] [info]  Updated sortOrder for /home/zeus/resst fox workspace/add book.json
+[2024-11-04 21:04:35.794] [info]  updateCollection
+[2024-11-04 21:04:35.800] [info]  Updated sortOrder for /home/zeus/resst fox workspace/greet.json
+[2024-11-04 21:04:35.801] [info]  updateCollection
+[2024-11-04 21:04:35.807] [info]  Updated sortOrder for /home/zeus/resst fox workspace/get.json
+[2024-11-04 21:04:35.807] [info]  getResponsesByCollectionId
+[2024-11-04 21:04:35.809] [info]  updateWorkspace
+[2024-11-04 21:04:35.811] [info]  No fields to update for workspace
+[2024-11-04 21:04:35.843] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:04:35.868] [info]  change /home/zeus/resst fox workspace/get client.json
+[2024-11-04 21:04:35.881] [info]  change /home/zeus/resst fox workspace/add book.json
+[2024-11-04 21:04:35.886] [info]  change /home/zeus/resst fox workspace/greet.json
+[2024-11-04 21:04:35.892] [info]  change /home/zeus/resst fox workspace/get.json
+[2024-11-04 21:05:07.472] [info]  updateCollection
+[2024-11-04 21:05:07.476] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:05:07.557] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:05:52.379] [info]  updateCollection
+[2024-11-04 21:05:52.382] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:05:52.463] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:05:55.305] [info]  updateCollection
+[2024-11-04 21:05:55.308] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:05:55.390] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:05:55.789] [info]  updateCollection
+[2024-11-04 21:05:55.795] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:05:55.874] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:05:59.821] [info]  updateCollection
+[2024-11-04 21:05:59.824] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:05:59.893] [info]  updateCollection
+[2024-11-04 21:05:59.895] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:05:59.977] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:02.889] [info]  updateCollection
+[2024-11-04 21:06:02.891] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:02.972] [info]  updateCollection
+[2024-11-04 21:06:02.974] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:03.057] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:03.668] [info]  updateCollection
+[2024-11-04 21:06:03.670] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:03.736] [info]  updateCollection
+[2024-11-04 21:06:03.738] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:03.824] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:03.969] [info]  updateCollection
+[2024-11-04 21:06:03.971] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:04.052] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:04.054] [info]  updateCollection
+[2024-11-04 21:06:04.058] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:04.140] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:05.159] [info]  updateCollection
+[2024-11-04 21:06:05.162] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:05.244] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:05.536] [info]  updateCollection
+[2024-11-04 21:06:05.538] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:05.621] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:06.424] [info]  updateCollection
+[2024-11-04 21:06:06.426] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:06.508] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:06.567] [info]  updateCollection
+[2024-11-04 21:06:06.569] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:06.650] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:06.792] [info]  updateCollection
+[2024-11-04 21:06:06.794] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:06.876] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:07.010] [info]  updateCollection
+[2024-11-04 21:06:07.013] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:07.094] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:08.338] [info]  updateCollection
+[2024-11-04 21:06:08.340] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:08.422] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:08.741] [info]  updateCollection
+[2024-11-04 21:06:08.743] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:08.825] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:09.117] [info]  updateCollection
+[2024-11-04 21:06:09.119] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:09.202] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:09.456] [info]  updateCollection
+[2024-11-04 21:06:09.458] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:09.541] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:11.054] [info]  updateCollection
+[2024-11-04 21:06:11.056] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:11.128] [info]  updateCollection
+[2024-11-04 21:06:11.132] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:11.219] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:11.470] [info]  updateCollection
+[2024-11-04 21:06:11.472] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:11.554] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:11.635] [info]  updateCollection
+[2024-11-04 21:06:11.638] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:11.719] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:11.859] [info]  updateCollection
+[2024-11-04 21:06:11.861] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:11.943] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:11.985] [info]  updateCollection
+[2024-11-04 21:06:11.987] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:12.070] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:12.159] [info]  updateCollection
+[2024-11-04 21:06:12.161] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:12.243] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:12.385] [info]  updateCollection
+[2024-11-04 21:06:12.388] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:12.470] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:12.771] [info]  updateCollection
+[2024-11-04 21:06:12.773] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:12.855] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:13.139] [info]  updateCollection
+[2024-11-04 21:06:13.140] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:13.223] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:14.345] [info]  updateCollection
+[2024-11-04 21:06:14.347] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:14.429] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:14.507] [info]  updateCollection
+[2024-11-04 21:06:14.508] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:14.589] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:14.719] [info]  updateCollection
+[2024-11-04 21:06:14.721] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:14.805] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:14.924] [info]  updateCollection
+[2024-11-04 21:06:14.926] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:15.008] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:06:17.921] [info]  { disableSSLVerification: false }
+[2024-11-04 21:06:17.923] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 21:06:18.349] [info]  createResponse
+[2024-11-04 21:06:18.437] [info]  add /home/zeus/resst fox workspace/login.responses.json
+[2024-11-04 21:07:10.789] [info]  updateCollection
+[2024-11-04 21:07:10.792] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:10.875] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:12.094] [info]  updateCollection
+[2024-11-04 21:07:12.097] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:12.179] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:15.781] [info]  updateCollection
+[2024-11-04 21:07:15.784] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:15.851] [info]  updateCollection
+[2024-11-04 21:07:15.852] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:15.938] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:16.159] [info]  updateCollection
+[2024-11-04 21:07:16.162] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:16.245] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:16.247] [info]  updateCollection
+[2024-11-04 21:07:16.249] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:16.329] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:16.435] [info]  updateCollection
+[2024-11-04 21:07:16.437] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:16.519] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:16.552] [info]  updateCollection
+[2024-11-04 21:07:16.554] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:16.635] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:16.721] [info]  updateCollection
+[2024-11-04 21:07:16.727] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:16.809] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:16.848] [info]  updateCollection
+[2024-11-04 21:07:16.851] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:16.851] [info]  updateCollection
+[2024-11-04 21:07:16.855] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:16.943] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:18.043] [info]  updateCollection
+[2024-11-04 21:07:18.045] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:18.128] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:20.853] [info]  updateCollection
+[2024-11-04 21:07:20.856] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:20.912] [info]  updateCollection
+[2024-11-04 21:07:20.914] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:20.998] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:21.147] [info]  updateCollection
+[2024-11-04 21:07:21.148] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:21.230] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:21.363] [info]  updateCollection
+[2024-11-04 21:07:21.365] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:21.447] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:22.930] [info]  updateCollection
+[2024-11-04 21:07:22.934] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:23.016] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:24.420] [info]  updateCollection
+[2024-11-04 21:07:24.423] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:24.467] [info]  updateCollection
+[2024-11-04 21:07:24.469] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:24.557] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:24.715] [info]  updateCollection
+[2024-11-04 21:07:24.716] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:24.799] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:24.870] [info]  updateCollection
+[2024-11-04 21:07:24.872] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:24.953] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:25.091] [info]  updateCollection
+[2024-11-04 21:07:25.095] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:25.176] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:25.230] [info]  updateCollection
+[2024-11-04 21:07:25.232] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:25.314] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:25.417] [info]  updateCollection
+[2024-11-04 21:07:25.419] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:25.501] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:25.631] [info]  updateCollection
+[2024-11-04 21:07:25.633] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:25.715] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:31.385] [info]  updateCollection
+[2024-11-04 21:07:31.388] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:31.470] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:31.481] [info]  updateCollection
+[2024-11-04 21:07:31.482] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:31.565] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:31.717] [info]  updateCollection
+[2024-11-04 21:07:31.719] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:31.802] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:31.937] [info]  updateCollection
+[2024-11-04 21:07:31.939] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:32.021] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:07:34.003] [info]  { disableSSLVerification: false }
+[2024-11-04 21:07:34.004] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 21:07:34.199] [info]  createResponse
+[2024-11-04 21:07:34.284] [info]  change /home/zeus/resst fox workspace/login.responses.json
+[2024-11-04 21:08:03.444] [info]  updateCollection
+[2024-11-04 21:08:03.445] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:08:03.528] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:08:05.078] [info]  { disableSSLVerification: false }
+[2024-11-04 21:08:05.080] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 21:08:06.604] [info]  createResponse
+[2024-11-04 21:08:06.691] [info]  change /home/zeus/resst fox workspace/login.responses.json
+[2024-11-04 21:08:12.362] [info]  updateWorkspace
+[2024-11-04 21:08:12.369] [info]  No fields to update for workspace
+[2024-11-04 21:08:20.733] [info]  updateCollection
+[2024-11-04 21:08:20.738] [info]  Updated file: /home/zeus/resst fox workspace/get client.json
+[2024-11-04 21:08:20.822] [info]  change /home/zeus/resst fox workspace/get client.json
+[2024-11-04 21:08:28.040] [info]  { disableSSLVerification: false }
+[2024-11-04 21:08:28.041] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 21:08:28.241] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 21:08:28.754] [info]  createResponse
+[2024-11-04 21:08:28.840] [info]  change /home/zeus/resst fox workspace/get client.responses.json
+[2024-11-04 21:08:44.032] [info]  updateWorkspace
+[2024-11-04 21:08:44.032] [info]  No fields to update for workspace
+[2024-11-04 21:08:45.100] [info]  updateWorkspace
+[2024-11-04 21:08:45.101] [info]  No fields to update for workspace
+[2024-11-04 21:08:46.076] [info]  updateWorkspace
+[2024-11-04 21:08:46.077] [info]  No fields to update for workspace
+[2024-11-04 21:11:21.140] [info]  updateWorkspace
+[2024-11-04 21:11:21.141] [info]  No fields to update for workspace
+[2024-11-04 21:11:22.945] [info]  updateWorkspace
+[2024-11-04 21:11:22.947] [info]  No fields to update for workspace
+[2024-11-04 21:11:26.277] [info]  updateWorkspace
+[2024-11-04 21:11:26.280] [info]  No fields to update for workspace
+[2024-11-04 21:11:28.082] [info]  updateCollection
+[2024-11-04 21:11:28.086] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:11:28.170] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:11:30.155] [info]  updateCollection
+[2024-11-04 21:11:30.165] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:11:30.249] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:11:31.237] [info]  { disableSSLVerification: false }
+[2024-11-04 21:11:31.238] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 21:11:31.458] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 21:11:31.650] [info]  createResponse
+[2024-11-04 21:11:31.744] [info]  change /home/zeus/resst fox workspace/login.responses.json
+[2024-11-04 21:11:35.325] [info]  updateCollection
+[2024-11-04 21:11:35.328] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:11:35.410] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:11:35.778] [info]  updateCollection
+[2024-11-04 21:11:35.781] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:11:35.862] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:11:37.892] [info]  { disableSSLVerification: false }
+[2024-11-04 21:11:37.893] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 21:11:38.075] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 21:11:38.254] [info]  createResponse
+[2024-11-04 21:11:38.342] [info]  change /home/zeus/resst fox workspace/login.responses.json
+[2024-11-04 21:11:59.542] [info]  updateCollection
+[2024-11-04 21:11:59.546] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:11:59.628] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:12:10.016] [info]  updateCollection
+[2024-11-04 21:12:10.019] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:12:10.102] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:12:11.334] [info]  updateCollection
+[2024-11-04 21:12:11.336] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:12:11.417] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:12:11.507] [info]  updateCollection
+[2024-11-04 21:12:11.510] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:12:11.592] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:12:13.983] [info]  updateCollection
+[2024-11-04 21:12:13.986] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:12:14.067] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:12:14.334] [info]  updateCollection
+[2024-11-04 21:12:14.335] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:12:14.375] [info]  updateCollection
+[2024-11-04 21:12:14.378] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:12:14.469] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:12:23.515] [info]  updateCollection
+[2024-11-04 21:12:23.518] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:12:23.599] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:12:24.761] [info]  updateCollection
+[2024-11-04 21:12:24.764] [info]  Updated file: /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:12:24.845] [info]  change /home/zeus/resst fox workspace/login.json
+[2024-11-04 21:12:26.702] [info]  { disableSSLVerification: false }
+[2024-11-04 21:12:26.703] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 21:12:26.917] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 21:12:27.096] [info]  createResponse
+[2024-11-04 21:12:27.182] [info]  change /home/zeus/resst fox workspace/login.responses.json
+[2024-11-04 21:37:13.209] [info]  { disableSSLVerification: false }
+[2024-11-04 21:37:13.210] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 21:37:13.362] [info]  lookup pnczeus.dumiya.online
+[2024-11-04 21:37:13.519] [info]  createResponse
+[2024-11-04 21:37:13.609] [info]  change /home/zeus/resst fox workspace/login.responses.json
+[2024-11-04 23:04:44.146] [info]  "left top point: 1 / 1"
+[2024-11-04 23:04:44.152] [info]  scale: 1
+[2024-11-04 23:04:44.969] [info]  ipcMain: updateElectronApp
+[2024-11-04 23:04:44.972] [info]  Electron's autoUpdater does not support the 'linux' platform
+[2024-11-04 23:04:45.002] [info]  getCollectionForWorkspace
+[2024-11-04 23:04:45.006] [info]  getWorkspaceAtLocation
+[2024-11-04 23:04:45.153] [info]  getWorkspacePlugins
+[2024-11-04 23:04:45.156] [info]  getResponsesByCollectionId
+[2024-11-04 23:04:45.159] [info]  getCollectionForWorkspace
+[2024-11-04 23:04:45.159] [info]  getWorkspaceAtLocation
+[2024-11-04 23:04:58.903] [info]  deleteResponsesByCollectionIds
+[2024-11-04 23:04:58.912] [info]  Deleted responses for collection: /home/zeus/resst fox workspace/login.json from /home/zeus/resst fox workspace/login.responses.json
+[2024-11-04 23:04:58.923] [info]  deletePluginsByCollectionIds
+[2024-11-04 23:04:58.928] [info]  No plugins found for deletion for collection: /home/zeus/resst fox workspace/login.json
+[2024-11-04 23:04:58.935] [info]  deleteCollectionsByIds
+[2024-11-04 23:04:58.935] [info]  Deleting collection item: /home/zeus/resst fox workspace/login.json
+[2024-11-04 23:04:58.936] [info]  No messages found for deletion for collection item: /home/zeus/resst fox workspace/login.json
+[2024-11-04 23:04:58.979] [info]  updateWorkspace
+[2024-11-04 23:04:58.981] [info]  No fields to update for workspace
+[2024-11-04 23:04:59.017] [info]  unlink /home/zeus/resst fox workspace/login.responses.json
+[2024-11-04 23:04:59.017] [info]  unlink /home/zeus/resst fox workspace/login.json
+[2024-11-04 23:05:01.825] [info]  deleteResponsesByCollectionIds
+[2024-11-04 23:05:01.830] [info]  Deleted responses for collection: /home/zeus/resst fox workspace/get client.json from /home/zeus/resst fox workspace/get client.responses.json
+[2024-11-04 23:05:01.855] [info]  deletePluginsByCollectionIds
+[2024-11-04 23:05:01.856] [info]  No plugins found for deletion for collection: /home/zeus/resst fox workspace/get client.json
+[2024-11-04 23:05:01.863] [info]  deleteCollectionsByIds
+[2024-11-04 23:05:01.863] [info]  Deleting collection item: /home/zeus/resst fox workspace/get client.json
+[2024-11-04 23:05:01.864] [info]  No messages found for deletion for collection item: /home/zeus/resst fox workspace/get client.json
+[2024-11-04 23:05:01.885] [info]  updateWorkspace
+[2024-11-04 23:05:01.885] [info]  No fields to update for workspace
+[2024-11-04 23:05:01.932] [info]  unlink /home/zeus/resst fox workspace/get client.responses.json
+[2024-11-04 23:05:01.932] [info]  unlink /home/zeus/resst fox workspace/get client.json
+[2024-11-04 23:05:04.433] [info]  deleteResponsesByCollectionIds
+[2024-11-04 23:05:04.438] [info]  Deleted responses for collection: /home/zeus/resst fox workspace/add book.json from /home/zeus/resst fox workspace/add book.responses.json
+[2024-11-04 23:05:04.444] [info]  deletePluginsByCollectionIds
+[2024-11-04 23:05:04.446] [info]  No plugins found for deletion for collection: /home/zeus/resst fox workspace/add book.json
+[2024-11-04 23:05:04.453] [info]  deleteCollectionsByIds
+[2024-11-04 23:05:04.455] [info]  Deleting collection item: /home/zeus/resst fox workspace/add book.json
+[2024-11-04 23:05:04.456] [info]  No messages found for deletion for collection item: /home/zeus/resst fox workspace/add book.json
+[2024-11-04 23:05:04.476] [info]  updateWorkspace
+[2024-11-04 23:05:04.479] [info]  No fields to update for workspace
+[2024-11-04 23:05:04.540] [info]  unlink /home/zeus/resst fox workspace/add book.responses.json
+[2024-11-04 23:05:04.541] [info]  unlink /home/zeus/resst fox workspace/add book.json
+[2024-11-04 23:05:07.001] [info]  deleteResponsesByCollectionIds
+[2024-11-04 23:05:07.006] [info]  Deleted responses for collection: /home/zeus/resst fox workspace/greet.json from /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-04 23:05:07.012] [info]  deletePluginsByCollectionIds
+[2024-11-04 23:05:07.014] [info]  No plugins found for deletion for collection: /home/zeus/resst fox workspace/greet.json
+[2024-11-04 23:05:07.022] [info]  deleteCollectionsByIds
+[2024-11-04 23:05:07.023] [info]  Deleting collection item: /home/zeus/resst fox workspace/greet.json
+[2024-11-04 23:05:07.024] [info]  No messages found for deletion for collection item: /home/zeus/resst fox workspace/greet.json
+[2024-11-04 23:05:07.037] [info]  updateWorkspace
+[2024-11-04 23:05:07.039] [info]  No fields to update for workspace
+[2024-11-04 23:05:07.108] [info]  unlink /home/zeus/resst fox workspace/greet.responses.json
+[2024-11-04 23:05:07.109] [info]  unlink /home/zeus/resst fox workspace/greet.json
+[2024-11-04 23:05:09.679] [info]  deleteResponsesByCollectionIds
+[2024-11-04 23:05:09.684] [info]  Deleted responses for collection: /home/zeus/resst fox workspace/get.json from /home/zeus/resst fox workspace/get.responses.json
+[2024-11-04 23:05:09.690] [info]  deletePluginsByCollectionIds
+[2024-11-04 23:05:09.691] [info]  No plugins found for deletion for collection: /home/zeus/resst fox workspace/get.json
+[2024-11-04 23:05:09.696] [info]  deleteCollectionsByIds
+[2024-11-04 23:05:09.697] [info]  Deleting collection item: /home/zeus/resst fox workspace/get.json
+[2024-11-04 23:05:09.699] [info]  No messages found for deletion for collection item: /home/zeus/resst fox workspace/get.json
+[2024-11-04 23:05:09.711] [info]  updateWorkspace
+[2024-11-04 23:05:09.713] [info]  No fields to update for workspace
+[2024-11-04 23:05:09.786] [info]  unlink /home/zeus/resst fox workspace/get.responses.json
+[2024-11-04 23:05:09.787] [info]  unlink /home/zeus/resst fox workspace/get.json
+[2024-11-04 23:13:30.183] [info]  createCollection
+[2024-11-04 23:13:30.188] [info]  Created directory: /home/zeus/resst fox workspace/Books
+[2024-11-04 23:13:30.195] [info]  addDir /home/zeus/resst fox workspace/Books
+[2024-11-04 23:13:30.217] [info]  updateCollection
+[2024-11-04 23:13:30.221] [info]  Updated sortOrder for /home/zeus/resst fox workspace/Books/_.json
+[2024-11-04 23:13:30.222] [info]  getCollectionForWorkspace
+[2024-11-04 23:13:30.222] [info]  getWorkspaceAtLocation
+[2024-11-04 23:13:30.310] [info]  add /home/zeus/resst fox workspace/Books/_.json
+[2024-11-04 23:13:31.519] [info]  updateCollection
+[2024-11-04 23:13:31.520] [info]  Marked as collapsed: /home/zeus/resst fox workspace/Books/_collapsed
+[2024-11-04 23:13:31.521] [info]  getResponsesByCollectionId
+[2024-11-04 23:13:31.521] [info]  updateWorkspace
+[2024-11-04 23:13:31.523] [info]  No fields to update for workspace
+[2024-11-04 23:13:31.607] [info]  add /home/zeus/resst fox workspace/Books/_collapsed
+[2024-11-04 23:13:32.096] [info]  updateCollection
+[2024-11-04 23:13:32.099] [info]  Marked as expanded (collapsed file removed): /home/zeus/resst fox workspace/Books/_collapsed
+[2024-11-04 23:13:32.202] [info]  unlink /home/zeus/resst fox workspace/Books/_collapsed
+[2024-11-04 23:13:39.739] [info]  createCollection
+[2024-11-04 23:13:39.740] [info]  Created file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:39.768] [info]  updateCollection
+[2024-11-04 23:13:39.771] [info]  Updated sortOrder for /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:39.771] [info]  getResponsesByCollectionId
+[2024-11-04 23:13:39.772] [info]  updateWorkspace
+[2024-11-04 23:13:39.773] [info]  No fields to update for workspace
+[2024-11-04 23:13:39.774] [info]  getCollectionById
+[2024-11-04 23:13:39.775] [info]  getCollectionById
+[2024-11-04 23:13:39.858] [info]  add /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:43.307] [info]  updateCollection
+[2024-11-04 23:13:43.310] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:43.395] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:44.566] [info]  getCollectionById
+[2024-11-04 23:13:44.571] [info]  { disableSSLVerification: false }
+[2024-11-04 23:13:44.605] [info]  createResponse
+[2024-11-04 23:13:44.690] [info]  add /home/zeus/resst fox workspace/Books/get all books.responses.json
+[2024-11-04 23:13:46.742] [info]  updateCollection
+[2024-11-04 23:13:46.746] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:46.830] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:46.892] [info]  updateCollection
+[2024-11-04 23:13:46.901] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:46.984] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:47.035] [info]  updateCollection
+[2024-11-04 23:13:47.042] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:47.125] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:47.243] [info]  updateCollection
+[2024-11-04 23:13:47.253] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:47.342] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:47.959] [info]  updateCollection
+[2024-11-04 23:13:47.961] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:48.045] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:48.205] [info]  updateCollection
+[2024-11-04 23:13:48.209] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:48.295] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:48.361] [info]  updateCollection
+[2024-11-04 23:13:48.366] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:48.452] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:48.580] [info]  updateCollection
+[2024-11-04 23:13:48.585] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:48.585] [info]  updateCollection
+[2024-11-04 23:13:48.587] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:48.674] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-04 23:13:49.920] [info]  getCollectionById
+[2024-11-04 23:13:49.923] [info]  { disableSSLVerification: false }
+[2024-11-04 23:13:49.932] [info]  createResponse
+[2024-11-04 23:13:50.018] [info]  change /home/zeus/resst fox workspace/Books/get all books.responses.json
+[2024-11-04 23:23:59.326] [info]  getCollectionById
+[2024-11-04 23:23:59.334] [info]  { disableSSLVerification: false }
+[2024-11-04 23:23:59.356] [info]  createResponse
+[2024-11-04 23:23:59.443] [info]  change /home/zeus/resst fox workspace/Books/get all books.responses.json
+[2024-11-04 23:24:00.070] [info]  getCollectionById
+[2024-11-04 23:24:00.079] [info]  { disableSSLVerification: false }
+[2024-11-04 23:24:00.098] [info]  createResponse
+[2024-11-04 23:24:00.189] [info]  change /home/zeus/resst fox workspace/Books/get all books.responses.json
+[2024-11-04 23:24:11.174] [info]  getCollectionById
+[2024-11-04 23:24:11.181] [info]  { disableSSLVerification: false }
+[2024-11-04 23:24:11.213] [info]  createResponse
+[2024-11-04 23:24:11.302] [info]  change /home/zeus/resst fox workspace/Books/get all books.responses.json
+[2024-11-04 23:25:07.771] [info]  getCollectionById
+[2024-11-04 23:25:07.779] [info]  { disableSSLVerification: false }
+[2024-11-04 23:25:07.800] [info]  createResponse
+[2024-11-04 23:25:07.898] [info]  change /home/zeus/resst fox workspace/Books/get all books.responses.json
+[2024-11-05 00:00:43.654] [info]  updateCollection
+[2024-11-05 00:00:43.657] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 00:00:43.745] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 00:00:45.813] [info]  getCollectionById
+[2024-11-05 00:00:45.820] [info]  { disableSSLVerification: false }
+[2024-11-05 00:00:45.847] [info]  createResponse
+[2024-11-05 00:00:45.940] [info]  change /home/zeus/resst fox workspace/Books/get all books.responses.json
+[2024-11-05 00:00:57.767] [info]  createCollection
+[2024-11-05 00:00:57.772] [info]  Created file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:00:57.852] [info]  updateCollection
+[2024-11-05 00:00:57.858] [info]  Updated sortOrder for /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:00:57.859] [info]  updateCollection
+[2024-11-05 00:00:57.863] [info]  Updated sortOrder for /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 00:00:57.863] [info]  getResponsesByCollectionId
+[2024-11-05 00:00:57.864] [info]  updateWorkspace
+[2024-11-05 00:00:57.865] [info]  No fields to update for workspace
+[2024-11-05 00:00:57.866] [info]  getCollectionById
+[2024-11-05 00:00:57.867] [info]  getCollectionById
+[2024-11-05 00:00:57.868] [info]  getCollectionById
+[2024-11-05 00:00:57.944] [info]  add /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:00:57.947] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 00:01:00.247] [info]  updateCollection
+[2024-11-05 00:01:00.258] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:01:00.342] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:01:01.547] [info]  updateCollection
+[2024-11-05 00:01:01.550] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:01:01.636] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:01:03.382] [info]  updateWorkspace
+[2024-11-05 00:01:03.383] [info]  No fields to update for workspace
+[2024-11-05 00:01:03.383] [info]  getCollectionById
+[2024-11-05 00:01:03.384] [info]  getCollectionById
+[2024-11-05 00:01:03.386] [info]  getCollectionById
+[2024-11-05 00:01:06.083] [info]  updateWorkspace
+[2024-11-05 00:01:06.085] [info]  No fields to update for workspace
+[2024-11-05 00:01:06.085] [info]  getCollectionById
+[2024-11-05 00:01:06.086] [info]  getCollectionById
+[2024-11-05 00:01:06.088] [info]  getCollectionById
+[2024-11-05 00:01:07.849] [info]  updateCollection
+[2024-11-05 00:01:07.854] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:01:07.935] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:01:08.988] [info]  getCollectionById
+[2024-11-05 00:01:08.991] [info]  { disableSSLVerification: false }
+[2024-11-05 00:01:08.998] [info]  createResponse
+[2024-11-05 00:01:09.083] [info]  add /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:01:12.998] [info]  updateCollection
+[2024-11-05 00:01:13.000] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:01:13.084] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:01:14.514] [info]  updateCollection
+[2024-11-05 00:01:14.517] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:01:14.602] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:01:15.956] [info]  getCollectionById
+[2024-11-05 00:01:15.965] [info]  { disableSSLVerification: false }
+[2024-11-05 00:01:16.015] [info]  createResponse
+[2024-11-05 00:01:16.102] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:01:47.984] [info]  getCollectionById
+[2024-11-05 00:01:47.993] [info]  { disableSSLVerification: false }
+[2024-11-05 00:01:48.030] [info]  createResponse
+[2024-11-05 00:01:48.139] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:02:10.922] [info]  updateCollection
+[2024-11-05 00:02:10.924] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:11.010] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:13.842] [info]  updateCollection
+[2024-11-05 00:02:13.846] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:13.930] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:16.292] [info]  updateCollection
+[2024-11-05 00:02:16.299] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:16.383] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:22.343] [info]  updateCollection
+[2024-11-05 00:02:22.346] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:22.355] [info]  updateCollection
+[2024-11-05 00:02:22.357] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:22.450] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:28.376] [info]  updateCollection
+[2024-11-05 00:02:28.379] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:28.420] [info]  updateCollection
+[2024-11-05 00:02:28.423] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:28.518] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:28.679] [info]  updateCollection
+[2024-11-05 00:02:28.685] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:28.746] [info]  updateCollection
+[2024-11-05 00:02:28.750] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:28.845] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:28.972] [info]  updateCollection
+[2024-11-05 00:02:28.975] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:29.058] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:29.082] [info]  updateCollection
+[2024-11-05 00:02:29.086] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:29.173] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:29.309] [info]  updateCollection
+[2024-11-05 00:02:29.314] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:29.399] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:29.421] [info]  updateCollection
+[2024-11-05 00:02:29.426] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:29.508] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:33.372] [info]  updateCollection
+[2024-11-05 00:02:33.374] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:33.459] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:33.478] [info]  updateCollection
+[2024-11-05 00:02:33.482] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:33.568] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:33.725] [info]  updateCollection
+[2024-11-05 00:02:33.730] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:33.815] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:33.954] [info]  updateCollection
+[2024-11-05 00:02:33.958] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:34.046] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:34.067] [info]  updateCollection
+[2024-11-05 00:02:34.070] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:34.157] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:34.202] [info]  updateCollection
+[2024-11-05 00:02:34.205] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:34.291] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:38.244] [info]  updateCollection
+[2024-11-05 00:02:38.248] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:38.274] [info]  updateCollection
+[2024-11-05 00:02:38.276] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:38.362] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:38.557] [info]  updateCollection
+[2024-11-05 00:02:38.561] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:38.646] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:38.795] [info]  updateCollection
+[2024-11-05 00:02:38.801] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:38.885] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:39.018] [info]  updateCollection
+[2024-11-05 00:02:39.021] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:39.107] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:39.210] [info]  updateCollection
+[2024-11-05 00:02:39.213] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:39.214] [info]  updateCollection
+[2024-11-05 00:02:39.216] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:39.281] [info]  updateCollection
+[2024-11-05 00:02:39.284] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:39.371] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:40.792] [info]  updateCollection
+[2024-11-05 00:02:40.796] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:40.883] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:41.392] [info]  updateCollection
+[2024-11-05 00:02:41.394] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:41.479] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:02:42.821] [info]  getCollectionById
+[2024-11-05 00:02:42.831] [info]  { disableSSLVerification: false }
+[2024-11-05 00:02:42.848] [info]  createResponse
+[2024-11-05 00:02:42.935] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:03:21.614] [info]  getCollectionById
+[2024-11-05 00:03:21.623] [info]  { disableSSLVerification: false }
+[2024-11-05 00:03:33.861] [info]  createResponse
+[2024-11-05 00:03:33.947] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:04:00.165] [info]  getCollectionById
+[2024-11-05 00:04:00.174] [info]  { disableSSLVerification: false }
+[2024-11-05 00:04:00.214] [info]  createResponse
+[2024-11-05 00:04:00.306] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:04:07.878] [info]  updateCollection
+[2024-11-05 00:04:07.881] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:04:07.963] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:04:09.108] [info]  updateCollection
+[2024-11-05 00:04:09.111] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:04:09.199] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:04:10.320] [info]  getCollectionById
+[2024-11-05 00:04:10.327] [info]  { disableSSLVerification: false }
+[2024-11-05 00:04:10.340] [info]  createResponse
+[2024-11-05 00:04:10.427] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:04:17.401] [info]  getCollectionById
+[2024-11-05 00:04:17.411] [info]  { disableSSLVerification: false }
+[2024-11-05 00:04:17.429] [info]  createResponse
+[2024-11-05 00:04:17.521] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:13:52.840] [info]  getCollectionById
+[2024-11-05 00:13:52.847] [info]  { disableSSLVerification: false }
+[2024-11-05 00:13:52.902] [info]  createResponse
+[2024-11-05 00:13:52.995] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:14:28.768] [info]  getCollectionById
+[2024-11-05 00:14:28.786] [info]  { disableSSLVerification: false }
+[2024-11-05 00:14:28.837] [info]  createResponse
+[2024-11-05 00:14:28.941] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:14:33.608] [info]  updateCollection
+[2024-11-05 00:14:33.614] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:14:33.700] [info]  updateCollection
+[2024-11-05 00:14:33.702] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:14:33.710] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:14:33.798] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:14:33.886] [info]  updateCollection
+[2024-11-05 00:14:33.893] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:14:33.979] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:14:34.037] [info]  updateCollection
+[2024-11-05 00:14:34.048] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:14:34.132] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:14:36.110] [info]  getCollectionById
+[2024-11-05 00:14:36.119] [info]  { disableSSLVerification: false }
+[2024-11-05 00:14:36.145] [info]  createResponse
+[2024-11-05 00:14:36.252] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:14:55.280] [info]  getCollectionById
+[2024-11-05 00:14:55.287] [info]  { disableSSLVerification: false }
+[2024-11-05 00:14:55.313] [info]  createResponse
+[2024-11-05 00:14:55.408] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:14:56.451] [info]  getCollectionById
+[2024-11-05 00:14:56.459] [info]  { disableSSLVerification: false }
+[2024-11-05 00:14:56.477] [info]  createResponse
+[2024-11-05 00:14:56.573] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:15:20.773] [info]  getCollectionById
+[2024-11-05 00:15:20.780] [info]  { disableSSLVerification: false }
+[2024-11-05 00:15:20.799] [info]  createResponse
+[2024-11-05 00:15:20.891] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:15:22.055] [info]  getCollectionById
+[2024-11-05 00:15:22.064] [info]  { disableSSLVerification: false }
+[2024-11-05 00:15:22.085] [info]  createResponse
+[2024-11-05 00:15:22.186] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:15:22.580] [info]  getCollectionById
+[2024-11-05 00:15:22.586] [info]  { disableSSLVerification: false }
+[2024-11-05 00:15:22.607] [info]  createResponse
+[2024-11-05 00:15:22.706] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:15:22.784] [info]  getCollectionById
+[2024-11-05 00:15:22.795] [info]  { disableSSLVerification: false }
+[2024-11-05 00:15:22.813] [info]  createResponse
+[2024-11-05 00:15:22.914] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:15:24.929] [info]  updateCollection
+[2024-11-05 00:15:24.935] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:15:25.022] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:15:25.151] [info]  updateCollection
+[2024-11-05 00:15:25.160] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:15:25.223] [info]  updateCollection
+[2024-11-05 00:15:25.230] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:15:25.323] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:15:25.572] [info]  updateCollection
+[2024-11-05 00:15:25.582] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:15:25.634] [info]  updateCollection
+[2024-11-05 00:15:25.643] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:15:25.734] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:15:26.699] [info]  updateCollection
+[2024-11-05 00:15:26.709] [info]  Updated file: /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:15:26.792] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:15:28.020] [info]  getCollectionById
+[2024-11-05 00:15:28.027] [info]  { disableSSLVerification: false }
+[2024-11-05 00:15:28.059] [info]  createResponse
+[2024-11-05 00:15:28.154] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:15:46.685] [info]  getCollectionById
+[2024-11-05 00:15:46.691] [info]  { disableSSLVerification: false }
+[2024-11-05 00:15:46.731] [info]  createResponse
+[2024-11-05 00:15:46.836] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:17:19.037] [info]  getCollectionById
+[2024-11-05 00:17:19.045] [info]  { disableSSLVerification: false }
+[2024-11-05 00:17:19.109] [info]  createResponse
+[2024-11-05 00:17:19.236] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:17:51.170] [info]  getCollectionById
+[2024-11-05 00:17:51.178] [info]  { disableSSLVerification: false }
+[2024-11-05 00:17:51.385] [info]  deleteResponsesByIds
+[2024-11-05 00:17:51.437] [info]  Deleted responses: 6uvT2PSfkt28yPQ9lcUmh from /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:17:51.443] [info]  createResponse
+[2024-11-05 00:17:51.550] [info]  change /home/zeus/resst fox workspace/Books/create book.responses.json
+[2024-11-05 00:48:59.001] [info]  createCollection
+[2024-11-05 00:48:59.005] [info]  Created file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:48:59.094] [info]  add /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:48:59.117] [info]  updateCollection
+[2024-11-05 00:48:59.126] [info]  Updated sortOrder for /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:48:59.127] [info]  updateCollection
+[2024-11-05 00:48:59.134] [info]  Updated sortOrder for /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:48:59.135] [info]  updateCollection
+[2024-11-05 00:48:59.144] [info]  Updated sortOrder for /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 00:48:59.144] [info]  getResponsesByCollectionId
+[2024-11-05 00:48:59.146] [info]  updateWorkspace
+[2024-11-05 00:48:59.149] [info]  No fields to update for workspace
+[2024-11-05 00:48:59.149] [info]  getCollectionById
+[2024-11-05 00:48:59.152] [info]  getCollectionById
+[2024-11-05 00:48:59.156] [info]  getCollectionById
+[2024-11-05 00:48:59.161] [info]  getCollectionById
+[2024-11-05 00:48:59.212] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:48:59.221] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 00:48:59.233] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 00:49:03.669] [info]  updateWorkspace
+[2024-11-05 00:49:03.673] [info]  No fields to update for workspace
+[2024-11-05 00:49:03.674] [info]  getCollectionById
+[2024-11-05 00:49:03.680] [info]  getCollectionById
+[2024-11-05 00:49:03.687] [info]  getCollectionById
+[2024-11-05 00:49:03.691] [info]  getCollectionById
+[2024-11-05 00:49:06.282] [info]  updateWorkspace
+[2024-11-05 00:49:06.288] [info]  No fields to update for workspace
+[2024-11-05 00:49:06.289] [info]  getCollectionById
+[2024-11-05 00:49:06.293] [info]  getCollectionById
+[2024-11-05 00:49:06.298] [info]  getCollectionById
+[2024-11-05 00:49:06.301] [info]  getCollectionById
+[2024-11-05 00:49:07.459] [info]  updateCollection
+[2024-11-05 00:49:07.467] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:07.554] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:09.486] [info]  updateCollection
+[2024-11-05 00:49:09.498] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:09.584] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:10.220] [info]  updateCollection
+[2024-11-05 00:49:10.228] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:10.308] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:10.358] [info]  updateCollection
+[2024-11-05 00:49:10.367] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:10.450] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:10.491] [info]  updateCollection
+[2024-11-05 00:49:10.498] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:10.584] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:11.790] [info]  updateCollection
+[2024-11-05 00:49:11.811] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:11.884] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:12.135] [info]  updateCollection
+[2024-11-05 00:49:12.145] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:12.231] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:12.355] [info]  updateCollection
+[2024-11-05 00:49:12.362] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:12.451] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:12.490] [info]  updateCollection
+[2024-11-05 00:49:12.497] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:12.584] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:12.698] [info]  updateCollection
+[2024-11-05 00:49:12.706] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:12.793] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:21.382] [info]  updateCollection
+[2024-11-05 00:49:21.391] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:21.478] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:22.549] [info]  updateCollection
+[2024-11-05 00:49:22.562] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:22.648] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:23.492] [info]  getCollectionById
+[2024-11-05 00:49:23.499] [info]  { disableSSLVerification: false }
+[2024-11-05 00:49:23.520] [info]  createResponse
+[2024-11-05 00:49:23.618] [info]  add /home/zeus/resst fox workspace/Books/get book.responses.json
+[2024-11-05 00:49:26.117] [info]  updateCollection
+[2024-11-05 00:49:26.128] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:26.208] [info]  updateCollection
+[2024-11-05 00:49:26.215] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:26.303] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:27.460] [info]  getCollectionById
+[2024-11-05 00:49:27.464] [info]  { disableSSLVerification: false }
+[2024-11-05 00:49:27.472] [info]  createResponse
+[2024-11-05 00:49:27.559] [info]  change /home/zeus/resst fox workspace/Books/get book.responses.json
+[2024-11-05 00:49:29.249] [info]  updateCollection
+[2024-11-05 00:49:29.260] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:29.261] [info]  updateCollection
+[2024-11-05 00:49:29.271] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:29.272] [info]  updateCollection
+[2024-11-05 00:49:29.281] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:29.371] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:29.877] [info]  getCollectionById
+[2024-11-05 00:49:29.884] [info]  { disableSSLVerification: false }
+[2024-11-05 00:49:29.908] [info]  createResponse
+[2024-11-05 00:49:30.004] [info]  change /home/zeus/resst fox workspace/Books/get book.responses.json
+[2024-11-05 00:49:32.777] [info]  updateCollection
+[2024-11-05 00:49:32.784] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:32.869] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:32.920] [info]  updateCollection
+[2024-11-05 00:49:32.929] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:33.014] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:33.085] [info]  updateCollection
+[2024-11-05 00:49:33.094] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:33.180] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:33.266] [info]  updateCollection
+[2024-11-05 00:49:33.274] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:33.358] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:33.502] [info]  updateCollection
+[2024-11-05 00:49:33.516] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:33.592] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:49:34.510] [info]  getCollectionById
+[2024-11-05 00:49:34.517] [info]  { disableSSLVerification: false }
+[2024-11-05 00:49:34.538] [info]  createResponse
+[2024-11-05 00:49:34.631] [info]  change /home/zeus/resst fox workspace/Books/get book.responses.json
+[2024-11-05 00:50:16.038] [info]  getCollectionById
+[2024-11-05 00:50:16.044] [info]  { disableSSLVerification: false }
+[2024-11-05 00:50:16.062] [info]  createResponse
+[2024-11-05 00:50:16.153] [info]  change /home/zeus/resst fox workspace/Books/get book.responses.json
+[2024-11-05 00:50:20.584] [info]  updateCollection
+[2024-11-05 00:50:20.588] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:50:20.589] [info]  updateCollection
+[2024-11-05 00:50:20.596] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:50:20.598] [info]  updateCollection
+[2024-11-05 00:50:20.601] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:50:20.690] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:50:21.482] [info]  getCollectionById
+[2024-11-05 00:50:21.496] [info]  { disableSSLVerification: false }
+[2024-11-05 00:50:21.528] [info]  createResponse
+[2024-11-05 00:50:21.624] [info]  change /home/zeus/resst fox workspace/Books/get book.responses.json
+[2024-11-05 00:50:27.575] [info]  updateCollection
+[2024-11-05 00:50:27.582] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:50:27.664] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:50:27.969] [info]  updateCollection
+[2024-11-05 00:50:27.977] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:50:28.062] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:50:28.654] [info]  updateCollection
+[2024-11-05 00:50:28.665] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:50:28.666] [info]  updateCollection
+[2024-11-05 00:50:28.678] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:50:28.702] [info]  updateCollection
+[2024-11-05 00:50:28.714] [info]  Updated file: /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:50:28.803] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 00:50:29.838] [info]  getCollectionById
+[2024-11-05 00:50:29.848] [info]  { disableSSLVerification: false }
+[2024-11-05 00:50:29.868] [info]  createResponse
+[2024-11-05 00:50:29.965] [info]  change /home/zeus/resst fox workspace/Books/get book.responses.json
+[2024-11-05 01:03:37.424] [info]  createCollection
+[2024-11-05 01:03:37.428] [info]  Created file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:37.514] [info]  add /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:37.573] [info]  updateCollection
+[2024-11-05 01:03:37.577] [info]  Updated sortOrder for /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:37.577] [info]  updateCollection
+[2024-11-05 01:03:37.579] [info]  Updated sortOrder for /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 01:03:37.579] [info]  updateCollection
+[2024-11-05 01:03:37.581] [info]  Updated sortOrder for /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 01:03:37.582] [info]  updateCollection
+[2024-11-05 01:03:37.584] [info]  Updated sortOrder for /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:03:37.584] [info]  getResponsesByCollectionId
+[2024-11-05 01:03:37.585] [info]  updateWorkspace
+[2024-11-05 01:03:37.585] [info]  No fields to update for workspace
+[2024-11-05 01:03:37.585] [info]  getCollectionById
+[2024-11-05 01:03:37.586] [info]  getCollectionById
+[2024-11-05 01:03:37.588] [info]  getCollectionById
+[2024-11-05 01:03:37.591] [info]  getCollectionById
+[2024-11-05 01:03:37.592] [info]  getCollectionById
+[2024-11-05 01:03:37.657] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:37.660] [info]  change /home/zeus/resst fox workspace/Books/get book.json
+[2024-11-05 01:03:37.665] [info]  change /home/zeus/resst fox workspace/Books/create book.json
+[2024-11-05 01:03:37.665] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:03:41.720] [info]  updateCollection
+[2024-11-05 01:03:41.748] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:41.827] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:43.154] [info]  updateCollection
+[2024-11-05 01:03:43.165] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:43.251] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:46.574] [info]  updateCollection
+[2024-11-05 01:03:46.580] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:46.668] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:46.965] [info]  updateCollection
+[2024-11-05 01:03:46.973] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:47.059] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:47.239] [info]  updateCollection
+[2024-11-05 01:03:47.245] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:47.330] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:47.545] [info]  updateCollection
+[2024-11-05 01:03:47.552] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:47.620] [info]  updateCollection
+[2024-11-05 01:03:47.631] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:47.720] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:47.895] [info]  updateCollection
+[2024-11-05 01:03:47.900] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:47.971] [info]  updateCollection
+[2024-11-05 01:03:47.973] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:48.063] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:48.644] [info]  updateCollection
+[2024-11-05 01:03:48.667] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:48.755] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:48.964] [info]  updateCollection
+[2024-11-05 01:03:48.971] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:49.055] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:49.137] [info]  updateCollection
+[2024-11-05 01:03:49.146] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:49.233] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:49.281] [info]  updateCollection
+[2024-11-05 01:03:49.288] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:49.375] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:49.471] [info]  updateCollection
+[2024-11-05 01:03:49.478] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:49.562] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:51.227] [info]  updateCollection
+[2024-11-05 01:03:51.234] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:51.258] [info]  updateCollection
+[2024-11-05 01:03:51.268] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:51.366] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:03:53.222] [info]  getCollectionById
+[2024-11-05 01:03:53.225] [info]  { disableSSLVerification: false }
+[2024-11-05 01:03:53.232] [info]  createResponse
+[2024-11-05 01:03:53.320] [info]  add /home/zeus/resst fox workspace/Books/update a book.responses.json
+[2024-11-05 01:05:20.076] [info]  updateCollection
+[2024-11-05 01:05:20.081] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:20.082] [info]  updateCollection
+[2024-11-05 01:05:20.086] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:20.166] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:23.866] [info]  updateCollection
+[2024-11-05 01:05:23.875] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:23.956] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:25.323] [info]  updateCollection
+[2024-11-05 01:05:25.331] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:25.415] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:25.617] [info]  updateCollection
+[2024-11-05 01:05:25.624] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:25.711] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:43.234] [info]  updateCollection
+[2024-11-05 01:05:43.242] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:43.327] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:48.660] [info]  updateCollection
+[2024-11-05 01:05:48.669] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:48.752] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:48.849] [info]  updateCollection
+[2024-11-05 01:05:48.857] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:48.944] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:49.054] [info]  updateCollection
+[2024-11-05 01:05:49.060] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:49.147] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:49.294] [info]  updateCollection
+[2024-11-05 01:05:49.303] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:49.385] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:49.539] [info]  updateCollection
+[2024-11-05 01:05:49.548] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:49.549] [info]  updateCollection
+[2024-11-05 01:05:49.557] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:49.645] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:49.875] [info]  updateCollection
+[2024-11-05 01:05:49.884] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:49.919] [info]  updateCollection
+[2024-11-05 01:05:49.927] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:50.018] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:53.152] [info]  updateCollection
+[2024-11-05 01:05:53.169] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:53.170] [info]  updateCollection
+[2024-11-05 01:05:53.178] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:53.263] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:53.359] [info]  updateCollection
+[2024-11-05 01:05:53.367] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:53.452] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:53.455] [info]  updateCollection
+[2024-11-05 01:05:53.464] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:53.548] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:53.595] [info]  updateCollection
+[2024-11-05 01:05:53.603] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:53.688] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:53.858] [info]  updateCollection
+[2024-11-05 01:05:53.866] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:53.922] [info]  updateCollection
+[2024-11-05 01:05:53.932] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:54.014] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:57.352] [info]  updateCollection
+[2024-11-05 01:05:57.360] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:57.446] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:57.585] [info]  updateCollection
+[2024-11-05 01:05:57.591] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:57.677] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:57.971] [info]  updateCollection
+[2024-11-05 01:05:57.976] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:58.061] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:58.193] [info]  updateCollection
+[2024-11-05 01:05:58.203] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:58.291] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:58.406] [info]  updateCollection
+[2024-11-05 01:05:58.412] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:58.499] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:58.669] [info]  updateCollection
+[2024-11-05 01:05:58.675] [info]  Updated file: /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:05:58.762] [info]  change /home/zeus/resst fox workspace/Books/update a book.json
+[2024-11-05 01:06:02.225] [info]  getCollectionById
+[2024-11-05 01:06:02.237] [info]  { disableSSLVerification: false }
+[2024-11-05 01:06:02.256] [info]  createResponse
+[2024-11-05 01:06:02.354] [info]  change /home/zeus/resst fox workspace/Books/update a book.responses.json
+[2024-11-05 01:06:06.219] [info]  updateWorkspace
+[2024-11-05 01:06:06.226] [info]  No fields to update for workspace
+[2024-11-05 01:06:06.227] [info]  getCollectionById
+[2024-11-05 01:06:06.233] [info]  getCollectionById
+[2024-11-05 01:06:06.238] [info]  getCollectionById
+[2024-11-05 01:06:06.241] [info]  getCollectionById
+[2024-11-05 01:06:06.245] [info]  getCollectionById
+[2024-11-05 01:06:07.577] [info]  getCollectionById
+[2024-11-05 01:06:07.586] [info]  { disableSSLVerification: false }
+[2024-11-05 01:06:07.603] [info]  createResponse
+[2024-11-05 01:06:07.698] [info]  change /home/zeus/resst fox workspace/Books/get all books.responses.json
+[2024-11-05 01:06:21.209] [info]  updateCollection
+[2024-11-05 01:06:21.216] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:21.297] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:21.308] [info]  updateCollection
+[2024-11-05 01:06:21.314] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:21.400] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:21.487] [info]  updateCollection
+[2024-11-05 01:06:21.493] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:21.576] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:21.648] [info]  updateCollection
+[2024-11-05 01:06:21.656] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:21.742] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:21.821] [info]  updateCollection
+[2024-11-05 01:06:21.827] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:21.912] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:21.961] [info]  updateCollection
+[2024-11-05 01:06:21.968] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:22.057] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:22.125] [info]  updateCollection
+[2024-11-05 01:06:22.136] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:22.220] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:22.278] [info]  updateCollection
+[2024-11-05 01:06:22.285] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:22.371] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:22.437] [info]  updateCollection
+[2024-11-05 01:06:22.443] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:22.528] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:22.696] [info]  updateCollection
+[2024-11-05 01:06:22.705] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:22.790] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:23.256] [info]  updateCollection
+[2024-11-05 01:06:23.263] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:23.348] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:23.498] [info]  updateCollection
+[2024-11-05 01:06:23.506] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:23.592] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:23.740] [info]  updateCollection
+[2024-11-05 01:06:23.748] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:23.834] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:23.896] [info]  updateCollection
+[2024-11-05 01:06:23.905] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:23.990] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:24.082] [info]  updateCollection
+[2024-11-05 01:06:24.089] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:24.121] [info]  updateCollection
+[2024-11-05 01:06:24.128] [info]  Updated file: /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:24.223] [info]  change /home/zeus/resst fox workspace/Books/get all books.json
+[2024-11-05 01:06:27.417] [info]  getCollectionById
+[2024-11-05 01:06:27.424] [info]  { disableSSLVerification: false }
+[2024-11-05 01:06:27.443] [info]  createResponse
+[2024-11-05 01:06:27.537] [info]  change /home/zeus/resst fox workspace/Books/get all books.responses.json

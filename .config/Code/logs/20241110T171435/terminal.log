@@ -1,0 +1,40 @@
+2024-11-10 17:14:39.774 [info] Latency measurements for local backend
+window<->ptyhost (message port): 3.10ms
+window<->ptyhostservice<->ptyhost: 81.60ms
+ptyhostservice<->ptyhost: 0.86ms []
+2024-11-10 17:30:08.312 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.80ms
+window<->ptyhostservice<->ptyhost: 2.70ms
+ptyhostservice<->ptyhost: 1.53ms []
+2024-11-10 18:10:05.605 [info] Latency measurements for local backend
+window<->ptyhost (message port): 1.30ms
+window<->ptyhostservice<->ptyhost: 1.80ms
+ptyhostservice<->ptyhost: 0.71ms []
+2024-11-10 18:17:42.155 [info] Latency measurements for local backend
+window<->ptyhost (message port): 1.10ms
+window<->ptyhostservice<->ptyhost: 1.80ms
+ptyhostservice<->ptyhost: 0.80ms []
+2024-11-10 18:19:13.905 [info] Latency measurements for local backend
+window<->ptyhost (message port): 1.30ms
+window<->ptyhostservice<->ptyhost: 1.70ms
+ptyhostservice<->ptyhost: 0.78ms []
+2024-11-10 18:25:07.708 [info] Latency measurements for local backend
+window<->ptyhost (message port): 7.90ms
+window<->ptyhostservice<->ptyhost: 7.50ms
+ptyhostservice<->ptyhost: 1.41ms []
+2024-11-10 18:25:11.842 [error] Exception occurred during xterm disposal [{}]
+2024-11-10 18:25:12.747 [error] Exception occurred during xterm disposal [{}]
+2024-11-10 18:25:14.614 [error] Exception occurred during xterm disposal [{}]
+2024-11-10 18:25:16.355 [error] Exception occurred during xterm disposal [{}]
+2024-11-10 18:25:24.926 [error] Exception occurred during xterm disposal [{}]
+2024-11-10 18:27:07.349 [info] Latency measurements for local backend
+window<->ptyhost (message port): 0.80ms
+window<->ptyhostservice<->ptyhost: 1.90ms
+ptyhostservice<->ptyhost: 0.77ms []
+2024-11-10 18:29:27.484 [info] Latency measurements for local backend
+window<->ptyhost (message port): 1.90ms
+window<->ptyhostservice<->ptyhost: 10.70ms
+ptyhostservice<->ptyhost: 4.37ms []
+2024-11-10 18:38:48.893 [error] Exception occurred during xterm disposal [{}]
+2024-11-10 18:38:48.902 [error] Exception occurred during xterm disposal [{}]
+2024-11-10 18:38:48.908 [error] Exception occurred during xterm disposal [{}]

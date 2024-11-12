@@ -1,0 +1,11 @@
+2024-11-11 08:43:34.582 [info] update#setState idle
+2024-11-11 08:44:04.588 [info] update#setState checking for updates
+2024-11-11 08:44:04.595 [info] update#setState available for download
+2024-11-11 08:44:10.341 [info] update#setState idle
+2024-11-11 09:44:04.591 [info] update#setState checking for updates
+2024-11-11 09:44:08.612 [error] [network] #4: https://update.code.visualstudio.com/api/update/linux-x64/stable/912bb683695358a54ae0c670461738984cbb5b95 - error undefined net::ERR_NETWORK_IO_SUSPENDED
+2024-11-11 09:44:08.619 [error] Error: net::ERR_NETWORK_IO_SUSPENDED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117531)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2024-11-11 09:44:08.626 [info] update#setState idle
+2024-11-11 14:28:50.636 [info] Extension host with pid 3097 exited with code: 0, signal: unknown.

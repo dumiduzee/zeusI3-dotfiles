@@ -1,0 +1,14 @@
+{
+  "environment": {
+    "executable": "/home/zeus/fastapi/TodoApp/env/bin/python",
+    "prefix": "/home/zeus/fastapi/TodoApp/env",
+    "version": "3.12.7.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/home/zeus/fastapi/TodoApp/env/bin/python",
+      "/home/zeus/fastapi/TodoApp/env/bin/python3",
+      "/home/zeus/fastapi/TodoApp/env/bin/python3.12"
+    ]
+  },
+  "symlinks": []
+}

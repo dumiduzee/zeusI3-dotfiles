@@ -1,0 +1,24 @@
+2024-11-11 08:43:37.063 [info] Revived process, old id fb4d7249961292970917ffa9eb8aa31f-3 -> new id 1
+2024-11-11 08:43:37.063 [info] Revived process, old id fb4d7249961292970917ffa9eb8aa31f-4 -> new id 2
+2024-11-11 08:43:37.063 [info] Revived process, old id fb4d7249961292970917ffa9eb8aa31f-5 -> new id 3
+2024-11-11 08:43:37.063 [info] Revived process, old id fb4d7249961292970917ffa9eb8aa31f-7 -> new id 4
+2024-11-11 08:43:37.668 [info] Expanding terminal instance, old id fb4d7249961292970917ffa9eb8aa31f-3 -> new id 1
+2024-11-11 08:43:37.669 [info] Expanding terminal instance, old id fb4d7249961292970917ffa9eb8aa31f-4 -> new id 2
+2024-11-11 08:43:37.669 [info] Expanding terminal instance, old id fb4d7249961292970917ffa9eb8aa31f-5 -> new id 3
+2024-11-11 08:43:37.669 [info] Expanding terminal instance, old id fb4d7249961292970917ffa9eb8aa31f-6 -> new id undefined
+2024-11-11 08:43:37.669 [warning] Couldn't get layout info, a terminal was probably disconnected Could not find pty 6 on pty host
+2024-11-11 08:43:37.669 [info] Expanding terminal instance, old id fb4d7249961292970917ffa9eb8aa31f-7 -> new id 4
+2024-11-11 08:43:37.669 [info] Expanding terminal instance, old id fb4d7249961292970917ffa9eb8aa31f-8 -> new id undefined
+2024-11-11 08:43:37.669 [warning] Couldn't get layout info, a terminal was probably disconnected Could not find pty 8 on pty host
+2024-11-11 08:43:38.988 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+2024-11-11 08:43:38.989 [info] Persistent process reconnection "1"
+2024-11-11 08:43:38.999 [warning] Persistent process "2": Process had no disconnect runners but was an orphan
+2024-11-11 08:43:39.000 [info] Persistent process reconnection "2"
+2024-11-11 08:43:39.000 [warning] Persistent process "3": Process had no disconnect runners but was an orphan
+2024-11-11 08:43:39.000 [info] Persistent process reconnection "3"
+2024-11-11 08:43:39.000 [warning] Persistent process "4": Process had no disconnect runners but was an orphan
+2024-11-11 08:43:39.000 [info] Persistent process reconnection "4"
+2024-11-11 08:43:39.304 [info] Persistent process "1": Replaying 5856 chars and 1 size events
+2024-11-11 08:43:39.417 [info] Persistent process "2": Replaying 2932 chars and 1 size events
+2024-11-11 08:43:39.445 [info] Persistent process "3": Replaying 7359 chars and 1 size events
+2024-11-11 08:43:39.487 [info] Persistent process "4": Replaying 2368 chars and 1 size events

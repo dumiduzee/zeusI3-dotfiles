@@ -1,0 +1,1 @@
+DATABASE_URL =  postgresql+asyncpg://zeus:zeus@localhost:5432/bookly_db

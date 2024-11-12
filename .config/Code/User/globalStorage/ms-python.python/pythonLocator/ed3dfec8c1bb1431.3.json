@@ -1,0 +1,14 @@
+{
+  "environment": {
+    "executable": "/home/zeus/fastapi/venv/bin/python",
+    "prefix": "/home/zeus/fastapi/venv",
+    "version": "3.12.7.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/home/zeus/fastapi/venv/bin/python",
+      "/home/zeus/fastapi/venv/bin/python3",
+      "/home/zeus/fastapi/venv/bin/python3.12"
+    ]
+  },
+  "symlinks": []
+}

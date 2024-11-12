@@ -1,0 +1,14 @@
+{
+  "environment": {
+    "executable": "/mnt/sdb5/projects/fastapi_projects/Bookly/env/bin/python",
+    "prefix": "/mnt/sdb5/projects/fastapi_projects/Bookly/env",
+    "version": "3.12.7.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/mnt/sdb5/projects/fastapi_projects/Bookly/env/bin/python",
+      "/mnt/sdb5/projects/fastapi_projects/Bookly/env/bin/python3",
+      "/mnt/sdb5/projects/fastapi_projects/Bookly/env/bin/python3.12"
+    ]
+  },
+  "symlinks": []
+}

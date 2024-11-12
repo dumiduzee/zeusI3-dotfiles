@@ -1,0 +1,21 @@
+2024-11-11 18:48:57.567 [info] Latency measurements for local backend
+window<->ptyhost (message port): 4.00ms
+window<->ptyhostservice<->ptyhost: 11.10ms
+ptyhostservice<->ptyhost: 3.28ms []
+2024-11-11 18:48:57.584 [info] Latency measurements for local backend
+window<->ptyhost (message port): 12.90ms
+window<->ptyhostservice<->ptyhost: 22.40ms
+ptyhostservice<->ptyhost: 11.46ms []
+2024-11-11 18:48:57.595 [info] Latency measurements for local backend
+window<->ptyhost (message port): 14.00ms
+window<->ptyhostservice<->ptyhost: 23.20ms
+ptyhostservice<->ptyhost: 12.92ms []
+2024-11-11 18:48:57.596 [info] Latency measurements for local backend
+window<->ptyhost (message port): 14.10ms
+window<->ptyhostservice<->ptyhost: 28.80ms
+ptyhostservice<->ptyhost: 12.89ms []
+2024-11-11 19:17:56.724 [info] Latency measurements for local backend
+window<->ptyhost (message port): 1.00ms
+window<->ptyhostservice<->ptyhost: 2.90ms
+ptyhostservice<->ptyhost: 1.27ms []
+2024-11-11 19:23:24.306 [error] Exception occurred during xterm disposal [{}]

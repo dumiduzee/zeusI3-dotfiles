@@ -1,0 +1,424 @@
+2024-11-10 16:07:59.584 [info] [main] Log level: Info
+2024-11-10 16:07:59.584 [info] [main] Validating found git in: "git"
+2024-11-10 16:07:59.584 [info] [main] Using git "2.47.0" from "git"
+2024-11-10 16:07:59.584 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-10 16:07:59.584 [info] > git rev-parse --show-toplevel [27ms]
+2024-11-10 16:07:59.584 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 16:07:59.584 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-10 16:08:27.306 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:08:27.306 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 16:10:51.841 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-10 16:10:51.841 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:51.887 [info] > git rev-parse --show-toplevel [10ms]
+2024-11-10 16:10:51.888 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:53.733 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-10 16:10:53.734 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:53.762 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-10 16:10:53.762 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:53.790 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-10 16:10:53.790 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:53.819 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-10 16:10:53.820 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:53.851 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-10 16:10:53.851 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:53.868 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 16:10:53.868 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:53.882 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 16:10:53.882 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:53.895 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 16:10:53.895 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:53.909 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 16:10:53.909 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:53.923 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 16:10:53.923 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:53.953 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 16:10:53.953 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:53.966 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 16:10:53.966 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:53.979 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 16:10:53.979 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.612 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-10 16:10:55.612 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.636 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-10 16:10:55.636 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.649 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 16:10:55.649 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.657 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:55.657 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.665 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:55.665 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.672 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:55.672 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.682 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 16:10:55.682 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.690 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:55.690 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.697 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:55.697 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.704 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:55.704 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.712 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:55.712 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.719 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:55.719 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.726 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:55.726 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.733 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:55.733 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.741 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:55.741 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.748 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:55.748 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.755 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:55.755 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.763 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:55.763 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.769 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:55.769 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.777 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:55.777 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.784 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:55.784 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.791 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:55.791 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.798 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:55.798 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.805 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:55.805 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.813 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:55.813 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.821 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:55.821 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.828 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:55.828 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.835 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:55.835 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.842 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:55.842 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.849 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:55.849 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.857 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:55.857 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.864 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:55.864 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.872 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 16:10:55.872 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.881 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 16:10:55.882 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.889 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:55.889 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.896 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:55.896 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.903 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:55.903 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.910 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:55.910 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:55.917 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:55.917 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.659 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-10 16:10:57.659 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.683 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-10 16:10:57.683 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.709 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-10 16:10:57.709 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.729 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 16:10:57.729 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.742 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 16:10:57.742 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.751 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:57.751 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.761 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:57.761 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.769 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:57.769 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.777 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:57.777 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.785 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:57.785 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.793 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:57.793 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.800 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:57.801 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.810 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:57.810 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.816 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:57.817 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.825 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:57.825 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.832 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:57.832 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.840 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:57.840 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.848 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:57.848 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.855 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:57.855 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.863 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:57.863 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.871 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:57.871 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.878 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:57.878 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.885 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:57.885 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.893 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 16:10:57.893 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.900 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:57.900 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.907 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:57.907 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.915 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 16:10:57.915 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:10:57.921 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 16:10:57.921 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/testreact/myapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/testreact/myapp
+2024-11-10 16:11:32.319 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-10 16:11:32.319 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

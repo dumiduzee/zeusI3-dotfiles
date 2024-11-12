@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "Hack Nerd Font",
+    "editor.fontWeight": "bold",
+    "workbench.colorTheme": "Omni",
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "vs-nomo-dark"
+}

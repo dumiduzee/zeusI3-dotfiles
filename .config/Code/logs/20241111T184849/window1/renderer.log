@@ -1,0 +1,4 @@
+2024-11-11 18:48:52.041 [info] Started local extension host with pid 26279.
+2024-11-11 18:48:57.416 [error] [hollowtree.vue-snippets]: Unknown language in `contributes.vue-snippets.language`. Provided value: vue-html
+2024-11-11 18:48:57.420 [error] [sdras.vue-vscode-snippets]: Unknown language in `contributes.vue-vscode-snippets.language`. Provided value: vue-html
+2024-11-11 18:48:59.331 [info] [perf] Render performance baseline is 157ms

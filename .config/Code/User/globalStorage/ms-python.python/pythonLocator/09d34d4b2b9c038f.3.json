@@ -1,0 +1,14 @@
+{
+  "environment": {
+    "executable": "/home/zeus/projects/.venv/bin/python",
+    "prefix": "/home/zeus/projects/.venv",
+    "version": "3.12.7.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/home/zeus/projects/.venv/bin/python",
+      "/home/zeus/projects/.venv/bin/python3",
+      "/home/zeus/projects/.venv/bin/python3.12"
+    ]
+  },
+  "symlinks": []
+}

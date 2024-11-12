@@ -1,0 +1,586 @@
+2024-11-10 18:41:44.893 [info] [main] Log level: Info
+2024-11-10 18:41:44.893 [info] [main] Validating found git in: "git"
+2024-11-10 18:41:44.893 [info] [main] Using git "2.47.0" from "git"
+2024-11-10 18:41:44.893 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-10 18:41:44.893 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-10 18:41:44.893 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:41:44.893 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-10 18:41:46.258 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-10 18:41:46.258 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:41:46.303 [info] > git rev-parse --show-toplevel [17ms]
+2024-11-10 18:41:46.303 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:41:46.316 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:41:46.316 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:41:46.779 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 18:41:46.779 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:41:56.377 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:41:56.378 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.255 [info] > git rev-parse --show-toplevel [22ms]
+2024-11-10 18:44:18.255 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.401 [info] > git rev-parse --show-toplevel [12ms]
+2024-11-10 18:44:18.401 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.434 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 18:44:18.434 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.459 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 18:44:18.459 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.472 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.472 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.483 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.483 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.494 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.494 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.506 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.506 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.516 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.516 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.526 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.526 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.537 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.537 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.547 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.547 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.561 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 18:44:18.561 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.575 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.575 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.588 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 18:44:18.588 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.601 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.601 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.614 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.614 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.624 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.625 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.636 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.636 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.650 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 18:44:18.650 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.661 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.661 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.670 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.670 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.680 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.680 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.690 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.690 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.700 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.700 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.710 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.710 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.721 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.721 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.731 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 18:44:18.731 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.741 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 18:44:18.741 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.750 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.750 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.760 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 18:44:18.760 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.770 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.770 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.781 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.781 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.790 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.790 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.801 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.801 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.812 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.812 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.821 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.821 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.832 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.832 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.842 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.842 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.852 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.852 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.861 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.861 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.872 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.873 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.882 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.882 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.894 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-10 18:44:18.894 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.906 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 18:44:18.906 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.919 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 18:44:18.919 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.930 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 18:44:18.930 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.940 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.940 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.952 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.952 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.963 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.964 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.975 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.975 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.986 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 18:44:18.987 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:18.997 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:18.997 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:19.008 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:19.008 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:19.019 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:19.019 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:19.028 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:19.028 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:19.038 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:19.038 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:19.048 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:19.048 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:19.058 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 18:44:19.058 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:19.068 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:19.068 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:19.078 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:19.079 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:19.088 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:19.088 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:19.098 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:19.098 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:19.108 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:19.108 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:19.117 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:19.117 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:19.127 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:19.127 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:19.137 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-10 18:44:19.137 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:19.146 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:19.146 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:19.155 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:19.155 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:19.164 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:19.164 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:19.174 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:44:19.174 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-10 18:44:20.043 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-10 18:44:20.043 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 18:55:47.353 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:55:47.353 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 18:56:13.440 [info] > git rev-parse --show-toplevel [11ms]
+2024-11-10 18:56:13.440 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 18:56:20.812 [info] > git rev-parse --show-toplevel [25ms]
+2024-11-10 18:56:20.812 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 18:56:20.891 [info] > git rev-parse --show-toplevel [12ms]
+2024-11-10 18:56:20.892 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 18:56:20.929 [info] > git rev-parse --show-toplevel [10ms]
+2024-11-10 18:56:20.929 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 18:56:20.984 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-10 18:56:20.984 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 18:56:21.023 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 18:56:21.023 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 18:56:21.045 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 18:56:21.045 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 18:56:51.981 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 18:56:51.982 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 18:57:49.613 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-10 18:57:49.613 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 18:57:50.671 [info] > git rev-parse --show-toplevel [18ms]
+2024-11-10 18:57:50.671 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 18:57:53.143 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 18:57:53.143 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 18:57:58.201 [info] > git rev-parse --show-toplevel [12ms]
+2024-11-10 18:57:58.201 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 18:58:02.528 [info] > git rev-parse --show-toplevel [21ms]
+2024-11-10 18:58:02.528 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 18:58:06.436 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-10 18:58:06.436 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:00:41.935 [info] > git rev-parse --show-toplevel [17ms]
+2024-11-10 19:00:41.935 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:01:07.484 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-10 19:01:07.484 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:01:09.822 [info] > git rev-parse --show-toplevel [16ms]
+2024-11-10 19:01:09.822 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:01:13.816 [info] > git rev-parse --show-toplevel [19ms]
+2024-11-10 19:01:13.816 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:01:14.891 [info] > git rev-parse --show-toplevel [34ms]
+2024-11-10 19:01:14.891 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:01:27.366 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-10 19:01:27.366 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:01:28.471 [info] > git rev-parse --show-toplevel [10ms]
+2024-11-10 19:01:28.471 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:01:30.569 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 19:01:30.570 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:04:21.120 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-10 19:04:21.121 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:09:30.751 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 19:09:30.751 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:09:44.249 [info] > git rev-parse --show-toplevel [14ms]
+2024-11-10 19:09:44.250 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:10:04.685 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-10 19:10:04.685 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:10:54.861 [info] > git rev-parse --show-toplevel [11ms]
+2024-11-10 19:10:54.861 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:13:33.097 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 19:13:33.097 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:19:20.501 [info] > git rev-parse --show-toplevel [21ms]
+2024-11-10 19:19:20.501 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:19:24.490 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-10 19:19:24.490 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:19:35.704 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-10 19:19:35.704 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:20:04.886 [info] > git rev-parse --show-toplevel [16ms]
+2024-11-10 19:20:04.886 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:20:17.091 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-10 19:20:17.091 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:20:53.601 [info] > git rev-parse --show-toplevel [18ms]
+2024-11-10 19:20:53.601 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:21:08.742 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 19:21:08.742 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:21:15.783 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 19:21:15.783 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:21:18.183 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-10 19:21:18.184 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:21:20.365 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 19:21:20.365 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:21:21.141 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 19:21:21.141 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 19:22:00.822 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-10 19:22:00.823 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 21:29:58.418 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-10 21:29:58.418 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 21:32:18.783 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 21:32:18.783 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 21:32:25.792 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 21:32:25.792 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 21:32:29.592 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-10 21:32:29.592 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 21:32:52.679 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 21:32:52.680 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 21:33:00.656 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-10 21:33:00.656 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 21:33:11.929 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-10 21:33:11.929 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 21:36:03.997 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-10 21:36:03.997 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 21:38:50.497 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-10 21:38:50.497 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 21:45:42.702 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-10 21:45:42.702 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 22:07:13.887 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-10 22:07:13.887 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 22:07:52.041 [info] > git rev-parse --show-toplevel [13ms]
+2024-11-10 22:07:52.041 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 22:08:08.322 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-10 22:08:08.322 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 22:08:09.167 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-10 22:08:09.167 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 22:16:33.884 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-10 22:16:33.884 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 22:17:39.003 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 22:17:39.004 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 22:18:16.695 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 22:18:16.695 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 22:18:27.618 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 22:18:27.618 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 22:18:38.871 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 22:18:38.871 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 22:18:50.809 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 22:18:50.809 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 22:19:03.065 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-10 22:19:03.066 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 22:31:44.653 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-10 22:31:44.653 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 22:33:09.341 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-10 22:33:09.341 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 22:34:21.280 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-10 22:34:21.280 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 22:34:24.227 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 22:34:24.227 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 22:35:09.291 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 22:35:09.291 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 22:35:20.410 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-10 22:35:20.410 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project
+2024-11-10 22:35:24.702 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-10 22:35:24.702 [info] fatal: detected dubious ownership in repository at '/mnt/sdb5/react-project'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/sdb5/react-project

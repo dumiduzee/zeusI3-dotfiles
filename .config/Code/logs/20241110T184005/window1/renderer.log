@@ -1,0 +1,5 @@
+2024-11-10 18:40:07.223 [info] Started local extension host with pid 73151.
+2024-11-10 18:40:09.501 [error] [hollowtree.vue-snippets]: Unknown language in `contributes.vue-snippets.language`. Provided value: vue-html
+2024-11-10 18:40:09.501 [error] [sdras.vue-vscode-snippets]: Unknown language in `contributes.vue-vscode-snippets.language`. Provided value: vue-html
+2024-11-10 18:40:11.165 [info] [perf] Render performance baseline is 126ms
+2024-11-10 18:41:30.050 [warning] [File Watcher] Watcher shutdown because watched path got deleted (path: /mnt/sdb5/react)

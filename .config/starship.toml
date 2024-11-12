@@ -1,0 +1,9 @@
+#format = "󰱯 "  # This sets the main prompt text
+
+
+
+[nodejs]
+disabled = true
+
+[python]
+disabled = true

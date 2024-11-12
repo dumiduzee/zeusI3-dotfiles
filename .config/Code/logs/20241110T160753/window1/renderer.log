@@ -1,0 +1,12 @@
+2024-11-10 16:07:54.766 [info] Started local extension host with pid 52309.
+2024-11-10 16:07:56.244 [error] [hollowtree.vue-snippets]: Unknown language in `contributes.vue-snippets.language`. Provided value: vue-html
+2024-11-10 16:07:56.244 [error] [sdras.vue-vscode-snippets]: Unknown language in `contributes.vue-vscode-snippets.language`. Provided value: vue-html
+2024-11-10 16:07:57.571 [info] [perf] Render performance baseline is 69ms
+2024-11-10 16:11:30.117 [error] Unknown (FileSystemError): Failed to move 'myapp' to the trash (Failed to move item to trash)
+    at b6.create (file:///opt/visual-studio-code/resources/app/out/main.js:38:28832)
+    at Vi (file:///opt/visual-studio-code/resources/app/out/main.js:38:26126)
+    at Uy.y (file:///opt/visual-studio-code/resources/app/out/main.js:49:26885)
+2024-11-10 16:11:30.127 [error] Failed to move 'myapp' to the trash (Failed to move item to trash): Unknown (FileSystemError): Failed to move 'myapp' to the trash (Failed to move item to trash)
+    at b6.create (file:///opt/visual-studio-code/resources/app/out/main.js:38:28832)
+    at Vi (file:///opt/visual-studio-code/resources/app/out/main.js:38:26126)
+    at Uy.y (file:///opt/visual-studio-code/resources/app/out/main.js:49:26885)
